@@ -1,0 +1,26 @@
+[
+    {
+        "id": "f6944e9d-0e47-4d81-b99c-f42d8ab6a39d",
+        "title": "Facile (6x6)",
+        "url": "puzzles/puzzle_1.json",
+        "groupId": "group_1",
+        "groupName": "Gruppo 1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "ac4256b0-8d1b-4a19-a0f1-6d1b12db2f3b",
+        "title": "Medio (9x9)",
+        "url": "puzzles/puzzle_2.json",
+        "groupId": "group_1",
+        "groupName": "Gruppo 1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "6832d9bc-aca1-4214-99d1-f4048b9ad631",
+        "title": "Difficile (13x13)",
+        "url": "puzzles/puzzle_3.json",
+        "groupId": "group_1",
+        "groupName": "Gruppo 1",
+        "difficulty": "hard"
+    }
+]
