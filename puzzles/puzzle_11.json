@@ -1,0 +1,2553 @@
+{
+  "id": "a361d588-63a3-4967-acea-c22637f89396",
+  "width": 15,
+  "height": 15,
+  "cells": [
+    [
+      {
+        "id": "0-0",
+        "row": 0,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 1
+      },
+      {
+        "id": "0-1",
+        "row": 0,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 2
+      },
+      {
+        "id": "0-2",
+        "row": 0,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": "",
+        "number": 3
+      },
+      {
+        "id": "0-3",
+        "row": 0,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": "",
+        "number": 4
+      },
+      {
+        "id": "0-4",
+        "row": 0,
+        "col": 4,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "0-5",
+        "row": 0,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "L",
+        "userChar": "",
+        "number": 5
+      },
+      {
+        "id": "0-6",
+        "row": 0,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "U",
+        "userChar": "",
+        "number": 6
+      },
+      {
+        "id": "0-7",
+        "row": 0,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 7
+      },
+      {
+        "id": "0-8",
+        "row": 0,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 8
+      },
+      {
+        "id": "0-9",
+        "row": 0,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 9
+      },
+      {
+        "id": "0-10",
+        "row": 0,
+        "col": 10,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "0-11",
+        "row": 0,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": "",
+        "number": 10
+      },
+      {
+        "id": "0-12",
+        "row": 0,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": "",
+        "number": 11
+      },
+      {
+        "id": "0-13",
+        "row": 0,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 12
+      },
+      {
+        "id": "0-14",
+        "row": 0,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 13
+      }
+    ],
+    [
+      {
+        "id": "1-0",
+        "row": 1,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 14
+      },
+      {
+        "id": "1-1",
+        "row": 1,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "M",
+        "userChar": ""
+      },
+      {
+        "id": "1-2",
+        "row": 1,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "1-3",
+        "row": 1,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "1-4",
+        "row": 1,
+        "col": 4,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "1-5",
+        "row": 1,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 15
+      },
+      {
+        "id": "1-6",
+        "row": 1,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "1-7",
+        "row": 1,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "1-8",
+        "row": 1,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "1-9",
+        "row": 1,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "1-10",
+        "row": 1,
+        "col": 10,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 16
+      },
+      {
+        "id": "1-11",
+        "row": 1,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": ""
+      },
+      {
+        "id": "1-12",
+        "row": 1,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "1-13",
+        "row": 1,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "1-14",
+        "row": 1,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "2-0",
+        "row": 2,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "F",
+        "userChar": "",
+        "number": 17
+      },
+      {
+        "id": "2-1",
+        "row": 2,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "2-2",
+        "row": 2,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "2-3",
+        "row": 2,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "2-4",
+        "row": 2,
+        "col": 4,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "2-5",
+        "row": 2,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 18
+      },
+      {
+        "id": "2-6",
+        "row": 2,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "2-7",
+        "row": 2,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "2-8",
+        "row": 2,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "2-9",
+        "row": 2,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": ""
+      },
+      {
+        "id": "2-10",
+        "row": 2,
+        "col": 10,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "2-11",
+        "row": 2,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "2-12",
+        "row": 2,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "2-13",
+        "row": 2,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "2-14",
+        "row": 2,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "3-0",
+        "row": 3,
+        "col": 0,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "3-1",
+        "row": 3,
+        "col": 1,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "3-2",
+        "row": 3,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": "",
+        "number": 19
+      },
+      {
+        "id": "3-3",
+        "row": 3,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "3-4",
+        "row": 3,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": "",
+        "number": 20
+      },
+      {
+        "id": "3-5",
+        "row": 3,
+        "col": 5,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "3-6",
+        "row": 3,
+        "col": 6,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "3-7",
+        "row": 3,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 21
+      },
+      {
+        "id": "3-8",
+        "row": 3,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "B",
+        "userChar": ""
+      },
+      {
+        "id": "3-9",
+        "row": 3,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "3-10",
+        "row": 3,
+        "col": 10,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "3-11",
+        "row": 3,
+        "col": 11,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "3-12",
+        "row": 3,
+        "col": 12,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "3-13",
+        "row": 3,
+        "col": 13,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "3-14",
+        "row": 3,
+        "col": 14,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "4-0",
+        "row": 4,
+        "col": 0,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "4-1",
+        "row": 4,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": "",
+        "number": 22
+      },
+      {
+        "id": "4-2",
+        "row": 4,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "4-3",
+        "row": 4,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "4-4",
+        "row": 4,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "F",
+        "userChar": ""
+      },
+      {
+        "id": "4-5",
+        "row": 4,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 23
+      },
+      {
+        "id": "4-6",
+        "row": 4,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 24
+      },
+      {
+        "id": "4-7",
+        "row": 4,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": ""
+      },
+      {
+        "id": "4-8",
+        "row": 4,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "4-9",
+        "row": 4,
+        "col": 9,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "4-10",
+        "row": 4,
+        "col": 10,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": "",
+        "number": 25
+      },
+      {
+        "id": "4-11",
+        "row": 4,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 26
+      },
+      {
+        "id": "4-12",
+        "row": 4,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 27
+      },
+      {
+        "id": "4-13",
+        "row": 4,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 28
+      },
+      {
+        "id": "4-14",
+        "row": 4,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 29
+      }
+    ],
+    [
+      {
+        "id": "5-0",
+        "row": 5,
+        "col": 0,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "5-1",
+        "row": 5,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "U",
+        "userChar": "",
+        "number": 30
+      },
+      {
+        "id": "5-2",
+        "row": 5,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "5-3",
+        "row": 5,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "5-4",
+        "row": 5,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "5-5",
+        "row": 5,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "5-6",
+        "row": 5,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "5-7",
+        "row": 5,
+        "col": 7,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "5-8",
+        "row": 5,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": "",
+        "number": 31
+      },
+      {
+        "id": "5-9",
+        "row": 5,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 32
+      },
+      {
+        "id": "5-10",
+        "row": 5,
+        "col": 10,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "5-11",
+        "row": 5,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "P",
+        "userChar": ""
+      },
+      {
+        "id": "5-12",
+        "row": 5,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "5-13",
+        "row": 5,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "5-14",
+        "row": 5,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "6-0",
+        "row": 6,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 33
+      },
+      {
+        "id": "6-1",
+        "row": 6,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "M",
+        "userChar": ""
+      },
+      {
+        "id": "6-2",
+        "row": 6,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": ""
+      },
+      {
+        "id": "6-3",
+        "row": 6,
+        "col": 3,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "6-4",
+        "row": 6,
+        "col": 4,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "6-5",
+        "row": 6,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 34
+      },
+      {
+        "id": "6-6",
+        "row": 6,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": ""
+      },
+      {
+        "id": "6-7",
+        "row": 6,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": "",
+        "number": 35
+      },
+      {
+        "id": "6-8",
+        "row": 6,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "M",
+        "userChar": ""
+      },
+      {
+        "id": "6-9",
+        "row": 6,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "6-10",
+        "row": 6,
+        "col": 10,
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": ""
+      },
+      {
+        "id": "6-11",
+        "row": 6,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "6-12",
+        "row": 6,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "6-13",
+        "row": 6,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "6-14",
+        "row": 6,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "7-0",
+        "row": 7,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": "",
+        "number": 36
+      },
+      {
+        "id": "7-1",
+        "row": 7,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "7-2",
+        "row": 7,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "7-3",
+        "row": 7,
+        "col": 3,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "7-4",
+        "row": 7,
+        "col": 4,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "7-5",
+        "row": 7,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 37
+      },
+      {
+        "id": "7-6",
+        "row": 7,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "U",
+        "userChar": ""
+      },
+      {
+        "id": "7-7",
+        "row": 7,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "7-8",
+        "row": 7,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "7-9",
+        "row": 7,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "7-10",
+        "row": 7,
+        "col": 10,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "7-11",
+        "row": 7,
+        "col": 11,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "7-12",
+        "row": 7,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 38
+      },
+      {
+        "id": "7-13",
+        "row": 7,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "7-14",
+        "row": 7,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "L",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "8-0",
+        "row": 8,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "M",
+        "userChar": "",
+        "number": 39
+      },
+      {
+        "id": "8-1",
+        "row": 8,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "8-2",
+        "row": 8,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "G",
+        "userChar": ""
+      },
+      {
+        "id": "8-3",
+        "row": 8,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 40
+      },
+      {
+        "id": "8-4",
+        "row": 8,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 41
+      },
+      {
+        "id": "8-5",
+        "row": 8,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "8-6",
+        "row": 8,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "8-7",
+        "row": 8,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "8-8",
+        "row": 8,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "8-9",
+        "row": 8,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "8-10",
+        "row": 8,
+        "col": 10,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "8-11",
+        "row": 8,
+        "col": 11,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "8-12",
+        "row": 8,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "V",
+        "userChar": "",
+        "number": 42
+      },
+      {
+        "id": "8-13",
+        "row": 8,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "8-14",
+        "row": 8,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "9-0",
+        "row": 9,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 43
+      },
+      {
+        "id": "9-1",
+        "row": 9,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "9-2",
+        "row": 9,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "L",
+        "userChar": ""
+      },
+      {
+        "id": "9-3",
+        "row": 9,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "9-4",
+        "row": 9,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "9-5",
+        "row": 9,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "9-6",
+        "row": 9,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "9-7",
+        "row": 9,
+        "col": 7,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "9-8",
+        "row": 9,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 44
+      },
+      {
+        "id": "9-9",
+        "row": 9,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": ""
+      },
+      {
+        "id": "9-10",
+        "row": 9,
+        "col": 10,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": "",
+        "number": 45
+      },
+      {
+        "id": "9-11",
+        "row": 9,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "L",
+        "userChar": "",
+        "number": 46
+      },
+      {
+        "id": "9-12",
+        "row": 9,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "9-13",
+        "row": 9,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "9-14",
+        "row": 9,
+        "col": 14,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "10-0",
+        "row": 10,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": "",
+        "number": 47
+      },
+      {
+        "id": "10-1",
+        "row": 10,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "10-2",
+        "row": 10,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "10-3",
+        "row": 10,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "10-4",
+        "row": 10,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "10-5",
+        "row": 10,
+        "col": 5,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "10-6",
+        "row": 10,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "M",
+        "userChar": "",
+        "number": 48
+      },
+      {
+        "id": "10-7",
+        "row": 10,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 49
+      },
+      {
+        "id": "10-8",
+        "row": 10,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "10-9",
+        "row": 10,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "10-10",
+        "row": 10,
+        "col": 10,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "10-11",
+        "row": 10,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "10-12",
+        "row": 10,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "10-13",
+        "row": 10,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "10-14",
+        "row": 10,
+        "col": 14,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "11-0",
+        "row": 11,
+        "col": 0,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "11-1",
+        "row": 11,
+        "col": 1,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "11-2",
+        "row": 11,
+        "col": 2,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "11-3",
+        "row": 11,
+        "col": 3,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "11-4",
+        "row": 11,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "F",
+        "userChar": "",
+        "number": 50
+      },
+      {
+        "id": "11-5",
+        "row": 11,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 51
+      },
+      {
+        "id": "11-6",
+        "row": 11,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "11-7",
+        "row": 11,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": ""
+      },
+      {
+        "id": "11-8",
+        "row": 11,
+        "col": 8,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "11-9",
+        "row": 11,
+        "col": 9,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "11-10",
+        "row": 11,
+        "col": 10,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": "",
+        "number": 52
+      },
+      {
+        "id": "11-11",
+        "row": 11,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "11-12",
+        "row": 11,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "11-13",
+        "row": 11,
+        "col": 13,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "11-14",
+        "row": 11,
+        "col": 14,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "12-0",
+        "row": 12,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 53
+      },
+      {
+        "id": "12-1",
+        "row": 12,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": "",
+        "number": 54
+      },
+      {
+        "id": "12-2",
+        "row": 12,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": "",
+        "number": 55
+      },
+      {
+        "id": "12-3",
+        "row": 12,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 56
+      },
+      {
+        "id": "12-4",
+        "row": 12,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "F",
+        "userChar": ""
+      },
+      {
+        "id": "12-5",
+        "row": 12,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "12-6",
+        "row": 12,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "12-7",
+        "row": 12,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "12-8",
+        "row": 12,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": "",
+        "number": 57
+      },
+      {
+        "id": "12-9",
+        "row": 12,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 58
+      },
+      {
+        "id": "12-10",
+        "row": 12,
+        "col": 10,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "12-11",
+        "row": 12,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": "",
+        "number": 59
+      },
+      {
+        "id": "12-12",
+        "row": 12,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "12-13",
+        "row": 12,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 60
+      },
+      {
+        "id": "12-14",
+        "row": 12,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": "",
+        "number": 61
+      }
+    ],
+    [
+      {
+        "id": "13-0",
+        "row": 13,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": "",
+        "number": 62
+      },
+      {
+        "id": "13-1",
+        "row": 13,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "13-2",
+        "row": 13,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": ""
+      },
+      {
+        "id": "13-3",
+        "row": 13,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": ""
+      },
+      {
+        "id": "13-4",
+        "row": 13,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "13-5",
+        "row": 13,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "13-6",
+        "row": 13,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "13-7",
+        "row": 13,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "13-8",
+        "row": 13,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "13-9",
+        "row": 13,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "13-10",
+        "row": 13,
+        "col": 10,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "13-11",
+        "row": 13,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "H",
+        "userChar": "",
+        "number": 63
+      },
+      {
+        "id": "13-12",
+        "row": 13,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "13-13",
+        "row": 13,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "M",
+        "userChar": ""
+      },
+      {
+        "id": "13-14",
+        "row": 13,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "L",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "14-0",
+        "row": 14,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 64
+      },
+      {
+        "id": "14-1",
+        "row": 14,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "14-2",
+        "row": 14,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "14-3",
+        "row": 14,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "14-4",
+        "row": 14,
+        "col": 4,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "14-5",
+        "row": 14,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 65
+      },
+      {
+        "id": "14-6",
+        "row": 14,
+        "col": 6,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "14-7",
+        "row": 14,
+        "col": 7,
+        "isBlack": false,
+        "correctChar": "G",
+        "userChar": ""
+      },
+      {
+        "id": "14-8",
+        "row": 14,
+        "col": 8,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "14-9",
+        "row": 14,
+        "col": 9,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "14-10",
+        "row": 14,
+        "col": 10,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "14-11",
+        "row": 14,
+        "col": 11,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 66
+      },
+      {
+        "id": "14-12",
+        "row": 14,
+        "col": 12,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "14-13",
+        "row": 14,
+        "col": 13,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "14-14",
+        "row": 14,
+        "col": 14,
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": ""
+      }
+    ]
+  ],
+  "clues": [
+    {
+      "id": "c3fb7c5d-b5b8-45ba-b714-47f355e6ff5c",
+      "number": 1,
+      "direction": "across",
+      "text": "La S in certi giorni del calendario",
+      "startRow": 0,
+      "startCol": 0,
+      "length": 4
+    },
+    {
+      "id": "2ffc73f2-0155-4aac-a765-33d6bcbc942e",
+      "number": 1,
+      "direction": "down",
+      "text": "Mezzo sifone",
+      "startRow": 0,
+      "startCol": 0,
+      "length": 3
+    },
+    {
+      "id": "ed9403bd-ec3a-4410-aaa9-431f240d2451",
+      "number": 2,
+      "direction": "down",
+      "text": "Sono numerosi nel palamito",
+      "startRow": 0,
+      "startCol": 1,
+      "length": 3
+    },
+    {
+      "id": "650f2bf9-5741-4f32-951b-1ec2b8c0d73e",
+      "number": 3,
+      "direction": "down",
+      "text": "Si cercano a rimpiattino",
+      "startRow": 0,
+      "startCol": 2,
+      "length": 11
+    },
+    {
+      "id": "7b9bb7a5-b73e-4bc0-8ba9-5af9ac2f9114",
+      "number": 4,
+      "direction": "down",
+      "text": "Un prelato spesso in tv",
+      "startRow": 0,
+      "startCol": 3,
+      "length": 6
+    },
+    {
+      "id": "3db069cc-26f6-4c72-ba1d-5a553051750a",
+      "number": 5,
+      "direction": "across",
+      "text": "La Ranieri che impersona Lolita Lobosco",
+      "startRow": 0,
+      "startCol": 5,
+      "length": 5
+    },
+    {
+      "id": "c99773ac-8637-43fd-93a1-fa5f1cb29dbc",
+      "number": 5,
+      "direction": "down",
+      "text": "Erano 52 nell'antica Roma",
+      "startRow": 0,
+      "startCol": 5,
+      "length": 3
+    },
+    {
+      "id": "8b02feda-8221-47db-ae65-49cc544e37d2",
+      "number": 6,
+      "direction": "down",
+      "text": "\"A noi\" tedeschi",
+      "startRow": 0,
+      "startCol": 6,
+      "length": 3
+    },
+    {
+      "id": "cd291a3c-9a87-4289-9124-25da031c6d14",
+      "number": 7,
+      "direction": "down",
+      "text": "L' Asimov delle Cronache della galassia",
+      "startRow": 0,
+      "startCol": 7,
+      "length": 5
+    },
+    {
+      "id": "79f555dd-92cf-4e44-a0b7-5ebe20434775",
+      "number": 8,
+      "direction": "down",
+      "text": "L' inno a Maria Addolorata",
+      "startRow": 0,
+      "startCol": 8,
+      "length": 11
+    },
+    {
+      "id": "a3d86223-186b-4cd4-b000-47d4e8fe52dc",
+      "number": 9,
+      "direction": "down",
+      "text": "Era dell'Alleanza quella degli ebrei",
+      "startRow": 0,
+      "startCol": 9,
+      "length": 4
+    },
+    {
+      "id": "46304a54-a1dd-4c96-a248-f03ee47e2df1",
+      "number": 10,
+      "direction": "across",
+      "text": "Marco, regista di Il branco",
+      "startRow": 0,
+      "startCol": 11,
+      "length": 4
+    },
+    {
+      "id": "0d705de1-2ffb-49ec-846e-f12df2d0f8be",
+      "number": 10,
+      "direction": "down",
+      "text": "Era la Germania comunista (sigla)",
+      "startRow": 0,
+      "startCol": 11,
+      "length": 3
+    },
+    {
+      "id": "8c67a74f-7a50-4fe8-a622-6305d831c8bf",
+      "number": 11,
+      "direction": "down",
+      "text": "Degan attore",
+      "startRow": 0,
+      "startCol": 12,
+      "length": 3
+    },
+    {
+      "id": "b34c2b30-9e88-4997-b61a-b13ed99a0454",
+      "number": 12,
+      "direction": "down",
+      "text": "Irregolare in breve",
+      "startRow": 0,
+      "startCol": 13,
+      "length": 3
+    },
+    {
+      "id": "119bff68-be25-459e-8314-dba60ec899d9",
+      "number": 13,
+      "direction": "down",
+      "text": "Simbolo di seno",
+      "startRow": 0,
+      "startCol": 14,
+      "length": 3
+    },
+    {
+      "id": "f24f7bc1-2f17-4be1-9420-605102b7889a",
+      "number": 14,
+      "direction": "across",
+      "text": "Inibitore della Monoaminossidasi (sigla)",
+      "startRow": 1,
+      "startCol": 0,
+      "length": 4
+    },
+    {
+      "id": "771bb10e-9636-46ea-836a-b89491ecbdcb",
+      "number": 15,
+      "direction": "across",
+      "text": "Avviare... agli studi",
+      "startRow": 1,
+      "startCol": 5,
+      "length": 10
+    },
+    {
+      "id": "eb7b2891-f516-463e-8a15-b5117e8c4f66",
+      "number": 16,
+      "direction": "down",
+      "text": "La Lindberg di Pippi Calzelunghe",
+      "startRow": 1,
+      "startCol": 10,
+      "length": 6
+    },
+    {
+      "id": "e83cd783-e069-487d-9633-a4272e7889a3",
+      "number": 17,
+      "direction": "across",
+      "text": "Federazione Italiana Sci Nautico",
+      "startRow": 2,
+      "startCol": 0,
+      "length": 4
+    },
+    {
+      "id": "6b3984ee-902a-46db-80f2-18947d7b78d3",
+      "number": 18,
+      "direction": "across",
+      "text": "Un grande violinista",
+      "startRow": 2,
+      "startCol": 5,
+      "length": 10
+    },
+    {
+      "id": "5058061c-c1d8-4224-9857-bf9c0ddcebe0",
+      "number": 19,
+      "direction": "across",
+      "text": "Cinema International Corporation",
+      "startRow": 3,
+      "startCol": 2,
+      "length": 3
+    },
+    {
+      "id": "e2b35c68-fc69-4f7a-a26d-b71c2d5c6513",
+      "number": 20,
+      "direction": "down",
+      "text": "Il \"confronta\" (o \"confer\") dei rimandi bibliografici (sigla).",
+      "startRow": 3,
+      "startCol": 4,
+      "length": 3
+    },
+    {
+      "id": "fd25b408-1a5f-4219-b497-d7934e5da23c",
+      "number": 21,
+      "direction": "across",
+      "text": "Sabato senza estremi",
+      "startRow": 3,
+      "startCol": 7,
+      "length": 4
+    },
+    {
+      "id": "7f3c71fd-a5cc-446e-a587-809f256818d7",
+      "number": 22,
+      "direction": "across",
+      "text": "Espropriazione di beni",
+      "startRow": 4,
+      "startCol": 1,
+      "length": 8
+    },
+    {
+      "id": "803bb283-3498-4589-8051-bc7bcb23bf87",
+      "number": 22,
+      "direction": "down",
+      "text": "Comune nel torinese",
+      "startRow": 4,
+      "startCol": 1,
+      "length": 7
+    },
+    {
+      "id": "ee71fb24-3b7b-4bc0-b956-d3f5c2c7ee76",
+      "number": 23,
+      "direction": "down",
+      "text": "Sollevate con funi",
+      "startRow": 4,
+      "startCol": 5,
+      "length": 6
+    },
+    {
+      "id": "c6c61e1b-854b-482b-90b3-cba1cf041d12",
+      "number": 24,
+      "direction": "down",
+      "text": "Certamente",
+      "startRow": 4,
+      "startCol": 6,
+      "length": 11
+    },
+    {
+      "id": "d28d615a-d51f-4953-8a92-6bd26503b601",
+      "number": 25,
+      "direction": "across",
+      "text": "La \"Punta\"... dell'aeroporto di Palermo",
+      "startRow": 4,
+      "startCol": 10,
+      "length": 5
+    },
+    {
+      "id": "8e95f3a6-0978-47f6-90df-f3f274df6378",
+      "number": 26,
+      "direction": "down",
+      "text": "Associazione Provinciale Artigianato",
+      "startRow": 4,
+      "startCol": 11,
+      "length": 3
+    },
+    {
+      "id": "62ae4963-fc5d-4db7-b49f-39ba6aa35e5a",
+      "number": 27,
+      "direction": "down",
+      "text": "Non rispettosi",
+      "startRow": 4,
+      "startCol": 12,
+      "length": 11
+    },
+    {
+      "id": "63b9ebb3-1c77-41e4-9747-a079718d6033",
+      "number": 28,
+      "direction": "down",
+      "text": "Cosparsi di ghiaia",
+      "startRow": 4,
+      "startCol": 13,
+      "length": 7
+    },
+    {
+      "id": "783183e3-4655-4c02-93b6-e7a2055c1331",
+      "number": 29,
+      "direction": "down",
+      "text": "Comune nel nuorese",
+      "startRow": 4,
+      "startCol": 14,
+      "length": 5
+    },
+    {
+      "id": "b9484a6a-a061-43f2-8955-a436da77786e",
+      "number": 30,
+      "direction": "across",
+      "text": "Mettersi insieme, aggregarsi",
+      "startRow": 5,
+      "startCol": 1,
+      "length": 6
+    },
+    {
+      "id": "4aab33d0-0f4b-4d7e-afad-497b8f0349a4",
+      "number": 31,
+      "direction": "across",
+      "text": "Ha dato un'alternativa alla Grecia",
+      "startRow": 5,
+      "startCol": 8,
+      "length": 7
+    },
+    {
+      "id": "74d0977f-e9af-467d-8a63-31b63cc1f229",
+      "number": 32,
+      "direction": "down",
+      "text": "Topi, ratti",
+      "startRow": 5,
+      "startCol": 9,
+      "length": 6
+    },
+    {
+      "id": "5fedf240-4dd8-436a-9775-cb65f1d09d88",
+      "number": 33,
+      "direction": "across",
+      "text": "A Maggior Diritto (sigla).",
+      "startRow": 6,
+      "startCol": 0,
+      "length": 3
+    },
+    {
+      "id": "47ea03bd-2df6-43a8-9a5b-5646737fb25c",
+      "number": 33,
+      "direction": "down",
+      "text": "Sfortunato corpo di spedizione italiano (sigla)",
+      "startRow": 6,
+      "startCol": 0,
+      "length": 5
+    },
+    {
+      "id": "742e6427-c13a-4834-9111-d0563a99138b",
+      "number": 34,
+      "direction": "across",
+      "text": "Prendersi un disturbo",
+      "startRow": 6,
+      "startCol": 5,
+      "length": 10
+    },
+    {
+      "id": "9d02bfba-2a10-4b16-8cdd-fa6e2863835c",
+      "number": 35,
+      "direction": "down",
+      "text": "In primavera è legale",
+      "startRow": 6,
+      "startCol": 7,
+      "length": 3
+    },
+    {
+      "id": "b41dab9e-357a-40db-aa29-36a051a6537b",
+      "number": 36,
+      "direction": "across",
+      "text": "Scorrono nella campagna",
+      "startRow": 7,
+      "startCol": 0,
+      "length": 3
+    },
+    {
+      "id": "e1294d3f-42bc-4e26-9882-d48000f9345c",
+      "number": 37,
+      "direction": "across",
+      "text": "Moneta islandese",
+      "startRow": 7,
+      "startCol": 5,
+      "length": 5
+    },
+    {
+      "id": "ebbbfc53-0a78-42d0-b379-8272fed99207",
+      "number": 38,
+      "direction": "across",
+      "text": "Istituto Superiore di Linguistica",
+      "startRow": 7,
+      "startCol": 12,
+      "length": 3
+    },
+    {
+      "id": "95ec9a80-348c-487e-9a21-3d8f0aaf8dc9",
+      "number": 39,
+      "direction": "across",
+      "text": "Amministrano la giustizia",
+      "startRow": 8,
+      "startCol": 0,
+      "length": 10
+    },
+    {
+      "id": "59b49858-f0c3-4ed2-916c-39d2783eee04",
+      "number": 40,
+      "direction": "down",
+      "text": "Istituto Internazionale di Statistica (iniz.)",
+      "startRow": 8,
+      "startCol": 3,
+      "length": 3
+    },
+    {
+      "id": "584a10db-e3fd-4e47-aacf-0e9c2b5bafbb",
+      "number": 41,
+      "direction": "down",
+      "text": "Una tirata proibita",
+      "startRow": 8,
+      "startCol": 4,
+      "length": 6
+    },
+    {
+      "id": "f80f01f1-4c08-4e9b-9146-a492288669bd",
+      "number": 42,
+      "direction": "across",
+      "text": "Fu capitale d'Italia",
+      "startRow": 8,
+      "startCol": 12,
+      "length": 3
+    },
+    {
+      "id": "1a53fd57-d125-44e9-a300-b56542bb908d",
+      "number": 43,
+      "direction": "across",
+      "text": "L'online italiano",
+      "startRow": 9,
+      "startCol": 0,
+      "length": 7
+    },
+    {
+      "id": "4d9d3118-0572-4f12-a4a0-0222b75a7d25",
+      "number": 44,
+      "direction": "across",
+      "text": "Città dell'Inghilterra",
+      "startRow": 9,
+      "startCol": 8,
+      "length": 6
+    },
+    {
+      "id": "6d50be8e-5eed-4b57-9364-f6148213db0c",
+      "number": 45,
+      "direction": "down",
+      "text": "Centro Traumatologico Ospedaliero",
+      "startRow": 9,
+      "startCol": 10,
+      "length": 3
+    },
+    {
+      "id": "a33b2239-3148-4067-baed-881d5300b1c3",
+      "number": 46,
+      "direction": "down",
+      "text": "Disoneste, sospette",
+      "startRow": 9,
+      "startCol": 11,
+      "length": 6
+    },
+    {
+      "id": "959bb7d8-5acb-4004-966d-9c1c109bb559",
+      "number": 47,
+      "direction": "across",
+      "text": "Punta della Sicilia",
+      "startRow": 10,
+      "startCol": 0,
+      "length": 5
+    },
+    {
+      "id": "da2de4a9-6aa4-41e2-afeb-2fa6f20c238e",
+      "number": 48,
+      "direction": "across",
+      "text": "Degni di lode e di premio",
+      "startRow": 10,
+      "startCol": 6,
+      "length": 8
+    },
+    {
+      "id": "f0e4d405-f04f-4620-8762-8f12124f36f2",
+      "number": 49,
+      "direction": "down",
+      "text": "Il cane di Topolino",
+      "startRow": 10,
+      "startCol": 7,
+      "length": 5
+    },
+    {
+      "id": "86d1dd80-fa11-4643-91e7-c6f6642397dc",
+      "number": 50,
+      "direction": "across",
+      "text": "Un'unità di informazione sul web",
+      "startRow": 11,
+      "startCol": 4,
+      "length": 4
+    },
+    {
+      "id": "1cf58936-9e25-42f4-bb1c-4bece41afe61",
+      "number": 51,
+      "direction": "down",
+      "text": "Il numero uno a Berlino",
+      "startRow": 11,
+      "startCol": 5,
+      "length": 4
+    },
+    {
+      "id": "368455a2-f58b-4af2-9a5a-9c998bc5f31f",
+      "number": 52,
+      "direction": "across",
+      "text": "Sgradito al censore",
+      "startRow": 11,
+      "startCol": 10,
+      "length": 3
+    },
+    {
+      "id": "cfa7c6a1-7fbc-4d57-8e60-dbd1bee5283c",
+      "number": 53,
+      "direction": "across",
+      "text": "Vaghe, non determinate",
+      "startRow": 12,
+      "startCol": 0,
+      "length": 10
+    },
+    {
+      "id": "eda742c4-f2c4-4e0b-9f88-57bae5bbb1a9",
+      "number": 53,
+      "direction": "down",
+      "text": "Un carrozzone statale",
+      "startRow": 12,
+      "startCol": 0,
+      "length": 3
+    },
+    {
+      "id": "ecc341f5-f264-495f-995a-56f1e8f9cba5",
+      "number": 54,
+      "direction": "down",
+      "text": "Si occupano di frodi (sigla)",
+      "startRow": 12,
+      "startCol": 1,
+      "length": 3
+    },
+    {
+      "id": "3ad4db1f-5270-4497-93e8-01f7d65b29c3",
+      "number": 55,
+      "direction": "down",
+      "text": "Decreto del Capo dello Stato",
+      "startRow": 12,
+      "startCol": 2,
+      "length": 3
+    },
+    {
+      "id": "39086277-7d9f-425d-94da-d2b8effef713",
+      "number": 56,
+      "direction": "down",
+      "text": "Il prefisso ambientalista",
+      "startRow": 12,
+      "startCol": 3,
+      "length": 3
+    },
+    {
+      "id": "87a69e4a-0c34-4337-942b-e617f7a1ec42",
+      "number": 57,
+      "direction": "down",
+      "text": "Attore senza parti vocali",
+      "startRow": 12,
+      "startCol": 8,
+      "length": 3
+    },
+    {
+      "id": "daa06ef1-166f-4bfe-92f5-fb03bbfb53af",
+      "number": 58,
+      "direction": "down",
+      "text": "Programma per l'Energia Intelligente in Europa (sigla)",
+      "startRow": 12,
+      "startCol": 9,
+      "length": 3
+    },
+    {
+      "id": "37c074d1-6481-4d75-8f00-1648409f076b",
+      "number": 59,
+      "direction": "across",
+      "text": "Centre National d'Art et Culture: l'acronimo del Beaubourg",
+      "startRow": 12,
+      "startCol": 11,
+      "length": 4
+    },
+    {
+      "id": "7449fe13-202a-4a15-966f-1f69285545f4",
+      "number": 60,
+      "direction": "down",
+      "text": "Associazione Modellisti Navali (sigla)",
+      "startRow": 12,
+      "startCol": 13,
+      "length": 3
+    },
+    {
+      "id": "2650691c-0259-45e6-9bb3-054d5c0f1623",
+      "number": 61,
+      "direction": "down",
+      "text": "Prefisso per \"al di qua\"",
+      "startRow": 12,
+      "startCol": 14,
+      "length": 3
+    },
+    {
+      "id": "6d1209e5-644e-41c2-a333-d819592e32e4",
+      "number": 62,
+      "direction": "across",
+      "text": "Narrati",
+      "startRow": 13,
+      "startCol": 0,
+      "length": 10
+    },
+    {
+      "id": "a4321651-c421-4b73-9049-7fbf6da05f5f",
+      "number": 63,
+      "direction": "across",
+      "text": "Una sigla telematica",
+      "startRow": 13,
+      "startCol": 11,
+      "length": 4
+    },
+    {
+      "id": "ded8f39f-538f-48f2-9ca2-c7ed45ff6725",
+      "number": 64,
+      "direction": "across",
+      "text": "Egli... a Napoli",
+      "startRow": 14,
+      "startCol": 0,
+      "length": 4
+    },
+    {
+      "id": "5d07ae47-270f-4cdb-9a96-06b3f07ed472",
+      "number": 65,
+      "direction": "across",
+      "text": "Fisico italiano premio Nobel nel 1959",
+      "startRow": 14,
+      "startCol": 5,
+      "length": 5
+    },
+    {
+      "id": "eca215ef-7fbe-4582-a51f-d1ad6aaa6a25",
+      "number": 66,
+      "direction": "across",
+      "text": "Il numero uno a Berlino",
+      "startRow": 14,
+      "startCol": 11,
+      "length": 4
+    }
+  ]
+}
