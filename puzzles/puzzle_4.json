@@ -1,5 +1,5 @@
 {
-  "id": "90b6729a-e903-4583-aeb0-652b0f453936",
+  "id": "7dc88fc2-5dde-418b-867d-852544dd5e6f",
   "width": 5,
   "height": 5,
   "cells": [
@@ -17,7 +17,7 @@
         "row": 0,
         "col": 1,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "C",
         "userChar": "",
         "number": 1
       },
@@ -26,7 +26,7 @@
         "row": 0,
         "col": 2,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "H",
         "userChar": "",
         "number": 2
       },
@@ -35,7 +35,7 @@
         "row": 0,
         "col": 3,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "E",
         "userChar": "",
         "number": 3
       },
@@ -54,7 +54,7 @@
         "row": 1,
         "col": 0,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "P",
         "userChar": "",
         "number": 4
       },
@@ -63,7 +63,7 @@
         "row": 1,
         "col": 1,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -71,7 +71,7 @@
         "row": 1,
         "col": 2,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "E",
         "userChar": ""
       },
       {
@@ -79,7 +79,7 @@
         "row": 1,
         "col": 3,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "D",
         "userChar": ""
       },
       {
@@ -87,7 +87,7 @@
         "row": 1,
         "col": 4,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "E",
         "userChar": "",
         "number": 5
       }
@@ -98,7 +98,7 @@
         "row": 2,
         "col": 0,
         "isBlack": false,
-        "correctChar": "C",
+        "correctChar": "A",
         "userChar": "",
         "number": 6
       },
@@ -107,7 +107,7 @@
         "row": 2,
         "col": 1,
         "isBlack": false,
-        "correctChar": "L",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -115,7 +115,7 @@
         "row": 2,
         "col": 2,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "N",
         "userChar": ""
       },
       {
@@ -123,7 +123,7 @@
         "row": 2,
         "col": 3,
         "isBlack": false,
-        "correctChar": "T",
+        "correctChar": "D",
         "userChar": ""
       },
       {
@@ -131,7 +131,7 @@
         "row": 2,
         "col": 4,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "T",
         "userChar": ""
       }
     ],
@@ -141,7 +141,7 @@
         "row": 3,
         "col": 0,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "U",
         "userChar": "",
         "number": 7
       },
@@ -150,7 +150,7 @@
         "row": 3,
         "col": 1,
         "isBlack": false,
-        "correctChar": "L",
+        "correctChar": "C",
         "userChar": ""
       },
       {
@@ -158,7 +158,7 @@
         "row": 3,
         "col": 2,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -166,7 +166,7 @@
         "row": 3,
         "col": 3,
         "isBlack": false,
-        "correctChar": "T",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -174,7 +174,7 @@
         "row": 3,
         "col": 4,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "A",
         "userChar": ""
       }
     ],
@@ -192,7 +192,7 @@
         "row": 4,
         "col": 1,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "E",
         "userChar": "",
         "number": 8
       },
@@ -201,7 +201,7 @@
         "row": 4,
         "col": 2,
         "isBlack": false,
-        "correctChar": "L",
+        "correctChar": "Y",
         "userChar": ""
       },
       {
@@ -224,91 +224,91 @@
   ],
   "clues": [
     {
-      "id": "77e0b303-e916-4f91-8543-a2d345348096",
+      "id": "d21305fb-fd4c-4a45-be85-9ad3e78ca22e",
       "number": 1,
       "direction": "across",
-      "text": "Avverbio di negazione che precede un verbo",
+      "text": "Il Guevara fra gli esponenti della rivoluzione cubana",
       "startRow": 0,
       "startCol": 1,
       "length": 3
     },
     {
-      "id": "13ab6cde-0429-4528-a023-285cf571a5d1",
+      "id": "35d7c76e-a0b0-46a7-aa9e-f5fe6209c22e",
       "number": 1,
       "direction": "down",
-      "text": "Preposizione articolata",
+      "text": "Una maga omerica",
       "startRow": 0,
       "startCol": 1,
       "length": 5
     },
     {
-      "id": "271bfd92-52a0-4478-adf8-456478ebd2fc",
+      "id": "4bdf8516-4b62-4f41-86dd-7e32957de617",
       "number": 2,
       "direction": "down",
-      "text": "Il Ryan di \"Love story\"",
+      "text": "Mancini della \"Pantera rosa\"",
       "startRow": 0,
       "startCol": 2,
       "length": 5
     },
     {
-      "id": "441d1673-7fb6-40d3-8db8-ae6a1cb86efd",
+      "id": "20eaa72a-83ea-48dc-9b32-b46a9e61685c",
       "number": 3,
       "direction": "down",
-      "text": "Segue la sera",
+      "text": "Murphy comico",
       "startRow": 0,
       "startCol": 3,
       "length": 5
     },
     {
-      "id": "57080d28-9b57-442a-9f76-30dfa80a0efc",
+      "id": "dfb2d556-c5f4-4653-bdcf-acd04b5b63f4",
       "number": 4,
       "direction": "across",
-      "text": "Altopiano del bolzanese",
+      "text": "C'è chi lo tiene in due staffe",
       "startRow": 1,
       "startCol": 0,
       "length": 5
     },
     {
-      "id": "61d9299d-d90e-4871-8e60-353bf696363f",
+      "id": "731a6278-726f-43fb-992d-96508c1ab6ce",
       "number": 4,
       "direction": "down",
-      "text": "Assicurazione per veicoli (sigla)",
+      "text": "Centro francese vicino a Lourdes",
       "startRow": 1,
       "startCol": 0,
       "length": 3
     },
     {
-      "id": "5426e2bd-d223-4396-a5a4-7d5ff2274f2d",
+      "id": "d6b7dbe0-e10f-4ff1-8a9c-9c3f8f077891",
       "number": 5,
       "direction": "down",
-      "text": "Si mise al timone dell'Arca",
+      "text": "Catena montuosa della Grecia",
       "startRow": 1,
       "startCol": 4,
       "length": 3
     },
     {
-      "id": "43fbdbce-2505-4ee3-9750-0918067f0a62",
+      "id": "5ae9543d-1d0d-48d8-b3ec-3c830b36421d",
       "number": 6,
       "direction": "across",
-      "text": "Il terzo papa dopo san Pietro",
+      "text": "Ernst Moritz scrittore",
       "startRow": 2,
       "startCol": 0,
       "length": 5
     },
     {
-      "id": "be5929d4-2842-4f3c-9d37-fa84cb80bff9",
+      "id": "e6944021-6c7a-4ed2-a27f-caf5d593b1ab",
       "number": 7,
       "direction": "across",
-      "text": "Lo sono molte formiche",
+      "text": "La Marianna di Dacia Maraini",
       "startRow": 3,
       "startCol": 0,
       "length": 5
     },
     {
-      "id": "e137054a-0b8f-42d6-8b67-932c90bc9532",
+      "id": "300ae68d-64da-4ac3-a9e6-dc12dfcea2fa",
       "number": 8,
       "direction": "across",
-      "text": "Il grido di incitamento",
+      "text": "Marlowe era private",
       "startRow": 4,
       "startCol": 1,
       "length": 3

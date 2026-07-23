@@ -1,30 +1,30 @@
 [
     {
-        "id": "9592738c-c64f-4880-8055-7d49eea72538",
-        "title": "Facile (5x5)",
+        "id": "dab9531c-7f4c-425f-a30e-28e15a0225db",
+        "title": "Facile (6x6)",
         "url": "puzzles/puzzle_1.json",
         "groupId": "group_1",
         "groupName": "Volume 1",
         "difficulty": "easy"
     },
     {
-        "id": "26823817-c83c-414a-b2d1-c66aff16a6e0",
-        "title": "Medio (11x11)",
+        "id": "f899c84c-18b2-4535-93a3-834c520c72a6",
+        "title": "Medio (10x10)",
         "url": "puzzles/puzzle_2.json",
         "groupId": "group_1",
         "groupName": "Volume 1",
         "difficulty": "medium"
     },
     {
-        "id": "f38a0680-58ca-42eb-ad61-6a4f60ed8ea3",
-        "title": "Difficile (14x14)",
+        "id": "d5a996fa-ae97-488e-b689-5e202b31e10f",
+        "title": "Difficile (15x15)",
         "url": "puzzles/puzzle_3.json",
         "groupId": "group_1",
         "groupName": "Volume 1",
         "difficulty": "hard"
     },
     {
-        "id": "90b6729a-e903-4583-aeb0-652b0f453936",
+        "id": "7dc88fc2-5dde-418b-867d-852544dd5e6f",
         "title": "Facile (5x5)",
         "url": "puzzles/puzzle_4.json",
         "groupId": "group_2",
@@ -32,91 +32,43 @@
         "difficulty": "easy"
     },
     {
-        "id": "5417ec36-8727-4a69-99a0-da358e642a6a",
-        "title": "Medio (9x9)",
+        "id": "003dcc1c-6d4b-4d37-a86f-1331f31b72c5",
+        "title": "Medio (11x11)",
         "url": "puzzles/puzzle_5.json",
         "groupId": "group_2",
         "groupName": "Volume 2",
         "difficulty": "medium"
     },
     {
-        "id": "aa190b30-b17e-4952-a900-7a636c23c1ee",
-        "title": "Difficile (15x15)",
+        "id": "31533851-9a3d-4182-9a72-674c355fe55d",
+        "title": "Difficile (13x13)",
         "url": "puzzles/puzzle_6.json",
         "groupId": "group_2",
         "groupName": "Volume 2",
         "difficulty": "hard"
     },
     {
-        "id": "2ee4df42-5a72-43f1-87d1-a1a50887fea1",
-        "title": "Facile (5x5)",
+        "id": "6cd59d0f-77d8-4d07-a162-3ab9dbe08e73",
+        "title": "Facile (6x6)",
         "url": "puzzles/puzzle_7.json",
         "groupId": "group_3",
         "groupName": "Volume 3",
         "difficulty": "easy"
     },
     {
-        "id": "889cd876-96fe-4c46-8332-63d8a26c9082",
-        "title": "Medio (9x9)",
+        "id": "f40c13cc-540e-410c-b689-23f44ec7a78b",
+        "title": "Medio (11x11)",
         "url": "puzzles/puzzle_8.json",
         "groupId": "group_3",
         "groupName": "Volume 3",
         "difficulty": "medium"
     },
     {
-        "id": "fbff8b35-1016-45d6-8fb9-116f2c970ac5",
+        "id": "6f6797f7-6eac-4e15-ba10-c929bbd660a7",
         "title": "Difficile (14x14)",
         "url": "puzzles/puzzle_9.json",
         "groupId": "group_3",
         "groupName": "Volume 3",
-        "difficulty": "hard"
-    },
-    {
-        "id": "3d1b88b2-476a-44f0-866e-108c35eca931",
-        "title": "Facile (6x6)",
-        "url": "puzzles/puzzle_10.json",
-        "groupId": "group_4",
-        "groupName": "Volume 4",
-        "difficulty": "easy"
-    },
-    {
-        "id": "5a9f58c4-185e-4526-949d-2760a6c8b0e3",
-        "title": "Medio (11x11)",
-        "url": "puzzles/puzzle_11.json",
-        "groupId": "group_4",
-        "groupName": "Volume 4",
-        "difficulty": "medium"
-    },
-    {
-        "id": "d9a98af5-3dc1-4f9d-a532-759fd15a7c43",
-        "title": "Difficile (14x14)",
-        "url": "puzzles/puzzle_12.json",
-        "groupId": "group_4",
-        "groupName": "Volume 4",
-        "difficulty": "hard"
-    },
-    {
-        "id": "6ce2b6d0-aed3-4964-b1ad-b0213790c5f7",
-        "title": "Facile (5x5)",
-        "url": "puzzles/puzzle_13.json",
-        "groupId": "group_5",
-        "groupName": "Volume 5",
-        "difficulty": "easy"
-    },
-    {
-        "id": "5846c328-2e16-4664-804a-04914fd9f4a7",
-        "title": "Medio (10x10)",
-        "url": "puzzles/puzzle_14.json",
-        "groupId": "group_5",
-        "groupName": "Volume 5",
-        "difficulty": "medium"
-    },
-    {
-        "id": "4f31e856-6aa5-4988-872d-4cbc22fb9bf5",
-        "title": "Difficile (14x14)",
-        "url": "puzzles/puzzle_15.json",
-        "groupId": "group_5",
-        "groupName": "Volume 5",
         "difficulty": "hard"
     }
 ]

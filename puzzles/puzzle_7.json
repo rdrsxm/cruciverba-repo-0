@@ -1,51 +1,59 @@
 {
-  "id": "2ee4df42-5a72-43f1-87d1-a1a50887fea1",
-  "width": 5,
-  "height": 5,
+  "id": "6cd59d0f-77d8-4d07-a162-3ab9dbe08e73",
+  "width": 6,
+  "height": 6,
   "cells": [
     [
       {
         "id": "0-0",
         "row": 0,
         "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": "",
+        "number": 1
       },
       {
         "id": "0-1",
         "row": 0,
         "col": 1,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "H",
+        "userChar": "",
+        "number": 2
       },
       {
         "id": "0-2",
         "row": 0,
         "col": 2,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "E",
         "userChar": "",
-        "number": 1
+        "number": 3
       },
       {
         "id": "0-3",
         "row": 0,
         "col": 3,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": "",
-        "number": 2
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "0-4",
         "row": 0,
         "col": 4,
-        "isBlack": false,
-        "correctChar": "N",
-        "userChar": "",
-        "number": 3
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "0-5",
+        "row": 0,
+        "col": 5,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       }
     ],
     [
@@ -54,7 +62,7 @@
         "row": 1,
         "col": 0,
         "isBlack": false,
-        "correctChar": "S",
+        "correctChar": "R",
         "userChar": "",
         "number": 4
       },
@@ -63,16 +71,15 @@
         "row": 1,
         "col": 1,
         "isBlack": false,
-        "correctChar": "C",
-        "userChar": "",
-        "number": 5
+        "correctChar": "E",
+        "userChar": ""
       },
       {
         "id": "1-2",
         "row": 1,
         "col": 2,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -80,16 +87,27 @@
         "row": 1,
         "col": 3,
         "isBlack": false,
-        "correctChar": "P",
-        "userChar": ""
+        "correctChar": "N",
+        "userChar": "",
+        "number": 5
       },
       {
         "id": "1-4",
         "row": 1,
         "col": 4,
         "isBlack": false,
-        "correctChar": "O",
-        "userChar": ""
+        "correctChar": "E",
+        "userChar": "",
+        "number": 6
+      },
+      {
+        "id": "1-5",
+        "row": 1,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": "",
+        "number": 7
       }
     ],
     [
@@ -100,14 +118,14 @@
         "isBlack": false,
         "correctChar": "A",
         "userChar": "",
-        "number": 6
+        "number": 8
       },
       {
         "id": "2-1",
         "row": 2,
         "col": 1,
         "isBlack": false,
-        "correctChar": "L",
+        "correctChar": "N",
         "userChar": ""
       },
       {
@@ -115,7 +133,7 @@
         "row": 2,
         "col": 2,
         "isBlack": false,
-        "correctChar": "B",
+        "correctChar": "G",
         "userChar": ""
       },
       {
@@ -123,7 +141,7 @@
         "row": 2,
         "col": 3,
         "isBlack": false,
-        "correctChar": "U",
+        "correctChar": "E",
         "userChar": ""
       },
       {
@@ -131,7 +149,15 @@
         "row": 2,
         "col": 4,
         "isBlack": false,
-        "correctChar": "M",
+        "correctChar": "L",
+        "userChar": ""
+      },
+      {
+        "id": "2-5",
+        "row": 2,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "O",
         "userChar": ""
       }
     ],
@@ -141,16 +167,16 @@
         "row": 3,
         "col": 0,
         "isBlack": false,
-        "correctChar": "B",
+        "correctChar": "P",
         "userChar": "",
-        "number": 7
+        "number": 9
       },
       {
         "id": "3-1",
         "row": 3,
         "col": 1,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -158,7 +184,7 @@
         "row": 3,
         "col": 2,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "E",
         "userChar": ""
       },
       {
@@ -174,7 +200,15 @@
         "row": 3,
         "col": 4,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "S",
+        "userChar": ""
+      },
+      {
+        "id": "3-5",
+        "row": 3,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "A",
         "userChar": ""
       }
     ],
@@ -186,14 +220,14 @@
         "isBlack": false,
         "correctChar": "A",
         "userChar": "",
-        "number": 8
+        "number": 10
       },
       {
         "id": "4-1",
         "row": 4,
         "col": 1,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "Y",
         "userChar": ""
       },
       {
@@ -201,116 +235,193 @@
         "row": 4,
         "col": 2,
         "isBlack": false,
-        "correctChar": "S",
+        "correctChar": "R",
         "userChar": ""
       },
       {
         "id": "4-3",
         "row": 4,
         "col": 3,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "T",
         "userChar": ""
       },
       {
         "id": "4-4",
         "row": 4,
         "col": 4,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "4-5",
+        "row": 4,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "5-0",
+        "row": 5,
+        "col": 0,
         "isBlack": true,
         "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "5-1",
+        "row": 5,
+        "col": 1,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "5-2",
+        "row": 5,
+        "col": 2,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "5-3",
+        "row": 5,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 11
+      },
+      {
+        "id": "5-4",
+        "row": 5,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "5-5",
+        "row": 5,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "I",
         "userChar": ""
       }
     ]
   ],
   "clues": [
     {
-      "id": "bc7d217b-7601-4341-8fda-ce62a5a65811",
+      "id": "fe23f84f-150c-4d5b-8b3e-fd45a70032f7",
       "number": 1,
       "direction": "across",
-      "text": "Nelle negazioni",
+      "text": "Ma __ cosa dici?",
       "startRow": 0,
-      "startCol": 2,
+      "startCol": 0,
       "length": 3
     },
     {
-      "id": "9bf49d3a-26ef-4799-afc9-7f5938ad7c29",
+      "id": "5f71bb11-9c12-4a88-b568-b0ebfb8e30a7",
       "number": 1,
       "direction": "down",
-      "text": "Un gruppo di artisti francesi di fine Ottocento",
+      "text": "È pelata in una nota canzoncina",
+      "startRow": 0,
+      "startCol": 0,
+      "length": 5
+    },
+    {
+      "id": "afcef4c0-b49b-4f63-9044-698f628f11e7",
+      "number": 2,
+      "direction": "down",
+      "text": "Mancini della \"Pantera rosa\"",
+      "startRow": 0,
+      "startCol": 1,
+      "length": 5
+    },
+    {
+      "id": "c88d3af4-3971-4ace-8ceb-b5bf8a8bd851",
+      "number": 3,
+      "direction": "down",
+      "text": "Vetta delle Alpi bernesi",
       "startRow": 0,
       "startCol": 2,
       "length": 5
     },
     {
-      "id": "bbbc3d5c-7b6f-4568-82ac-1764650bf70b",
-      "number": 2,
-      "direction": "down",
-      "text": "Un lavoro latino",
-      "startRow": 0,
-      "startCol": 3,
-      "length": 4
-    },
-    {
-      "id": "f584732d-26e6-4343-93f9-75df5725c208",
-      "number": 3,
-      "direction": "down",
-      "text": "Fido è spesso quello del cane",
-      "startRow": 0,
-      "startCol": 4,
-      "length": 4
-    },
-    {
-      "id": "39718bed-1159-4f0f-8624-28ae87dc47ff",
+      "id": "9b5b3754-d153-4a98-9508-a7c00f0c08ee",
       "number": 4,
       "direction": "across",
-      "text": "Fusto di colonna",
+      "text": "Fritz che fu un noto direttore d'orchestra",
       "startRow": 1,
       "startCol": 0,
-      "length": 5
+      "length": 6
     },
     {
-      "id": "3e0dad33-95b4-4af0-8886-02a79e49a0aa",
-      "number": 4,
-      "direction": "down",
-      "text": "Umberto poeta",
-      "startRow": 1,
-      "startCol": 0,
-      "length": 4
-    },
-    {
-      "id": "1f033edb-9b87-4bb8-a21d-27d3f3c186c8",
+      "id": "6835ba4c-0ee3-4409-849f-3af04e06db9d",
       "number": 5,
       "direction": "down",
-      "text": "La pastorella amata da Dafni",
+      "text": "Alessandro, calciatore laziale",
       "startRow": 1,
-      "startCol": 1,
-      "length": 4
+      "startCol": 3,
+      "length": 5
     },
     {
-      "id": "1cb06587-b1dc-48fb-98b4-191803f6ae8d",
+      "id": "bd66c88a-fb29-421d-9b1b-b40d3f1ab415",
       "number": 6,
-      "direction": "across",
-      "text": "Un posto per le foto",
-      "startRow": 2,
-      "startCol": 0,
+      "direction": "down",
+      "text": "Presa da lottatore",
+      "startRow": 1,
+      "startCol": 4,
       "length": 5
     },
     {
-      "id": "02311f01-db6d-4749-8854-7c74c0b212d0",
+      "id": "d1f6d1c7-a3d8-4531-a3b3-c4429941a4fd",
       "number": 7,
-      "direction": "across",
-      "text": "Capitale dell'Idaho",
-      "startRow": 3,
-      "startCol": 0,
+      "direction": "down",
+      "text": "Cavalli dal pelame misto",
+      "startRow": 1,
+      "startCol": 5,
       "length": 5
     },
     {
-      "id": "08b6d39a-20e5-43bc-8c42-c99bc9657998",
+      "id": "2db2c4b2-d8e3-4d47-8300-c6464807306b",
       "number": 8,
       "direction": "across",
-      "text": "Moneta dell'antica Roma",
+      "text": "Il custode celeste",
+      "startRow": 2,
+      "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "68d566c7-08dd-442c-b5ea-bc10df08f747",
+      "number": 9,
+      "direction": "across",
+      "text": "Macchina per laminatoi",
+      "startRow": 3,
+      "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "13469b7c-4998-4cc7-bb84-ce9eeb01f5dc",
+      "number": 10,
+      "direction": "across",
+      "text": "L'Ayrton compianto pilota",
       "startRow": 4,
       "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "40389669-911b-4d94-9785-b86966074b37",
+      "number": 11,
+      "direction": "across",
+      "text": "Uccelli brasiliani",
+      "startRow": 5,
+      "startCol": 3,
       "length": 3
     }
   ]

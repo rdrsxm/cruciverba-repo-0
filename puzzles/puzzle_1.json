@@ -1,51 +1,61 @@
 {
-  "id": "9592738c-c64f-4880-8055-7d49eea72538",
-  "width": 5,
-  "height": 5,
+  "id": "dab9531c-7f4c-425f-a30e-28e15a0225db",
+  "width": 6,
+  "height": 6,
   "cells": [
     [
       {
         "id": "0-0",
         "row": 0,
         "col": 0,
-        "isBlack": false,
-        "correctChar": "N",
-        "userChar": "",
-        "number": 1
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "0-1",
         "row": 0,
         "col": 1,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "M",
         "userChar": "",
-        "number": 2
+        "number": 1
       },
       {
         "id": "0-2",
         "row": 0,
         "col": 2,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "A",
         "userChar": "",
-        "number": 3
+        "number": 2
       },
       {
         "id": "0-3",
         "row": 0,
         "col": 3,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": "",
+        "number": 3
       },
       {
         "id": "0-4",
         "row": 0,
         "col": 4,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 4
+      },
+      {
+        "id": "0-5",
+        "row": 0,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "M",
+        "userChar": "",
+        "number": 5
       }
     ],
     [
@@ -53,25 +63,25 @@
         "id": "1-0",
         "row": 1,
         "col": 0,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": "",
-        "number": 4
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "1-1",
         "row": 1,
         "col": 1,
         "isBlack": false,
-        "correctChar": "G",
-        "userChar": ""
+        "correctChar": "A",
+        "userChar": "",
+        "number": 6
       },
       {
         "id": "1-2",
         "row": 1,
         "col": 2,
         "isBlack": false,
-        "correctChar": "G",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -80,15 +90,22 @@
         "col": 3,
         "isBlack": false,
         "correctChar": "I",
-        "userChar": "",
-        "number": 5
+        "userChar": ""
       },
       {
         "id": "1-4",
         "row": 1,
         "col": 4,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": ""
+      },
+      {
+        "id": "1-5",
+        "row": 1,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "I",
         "userChar": ""
       }
     ],
@@ -98,16 +115,16 @@
         "row": 2,
         "col": 0,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "C",
         "userChar": "",
-        "number": 6
+        "number": 7
       },
       {
         "id": "2-1",
         "row": 2,
         "col": 1,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -123,7 +140,7 @@
         "row": 2,
         "col": 3,
         "isBlack": false,
-        "correctChar": "C",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -131,9 +148,16 @@
         "row": 2,
         "col": 4,
         "isBlack": false,
-        "correctChar": "O",
-        "userChar": "",
-        "number": 7
+        "correctChar": "D",
+        "userChar": ""
+      },
+      {
+        "id": "2-5",
+        "row": 2,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
       }
     ],
     [
@@ -141,25 +165,25 @@
         "id": "3-0",
         "row": 3,
         "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": "",
+        "number": 8
       },
       {
         "id": "3-1",
         "row": 3,
         "col": 1,
         "isBlack": false,
-        "correctChar": "I",
-        "userChar": "",
-        "number": 8
+        "correctChar": "C",
+        "userChar": ""
       },
       {
         "id": "3-2",
         "row": 3,
         "col": 2,
         "isBlack": false,
-        "correctChar": "M",
+        "correctChar": "C",
         "userChar": ""
       },
       {
@@ -167,7 +191,7 @@
         "row": 3,
         "col": 3,
         "isBlack": false,
-        "correctChar": "P",
+        "correctChar": "H",
         "userChar": ""
       },
       {
@@ -175,7 +199,15 @@
         "row": 3,
         "col": 4,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "3-5",
+        "row": 3,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "O",
         "userChar": ""
       }
     ],
@@ -184,16 +216,17 @@
         "id": "4-0",
         "row": 4,
         "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 9
       },
       {
         "id": "4-1",
         "row": 4,
         "col": 1,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "O",
         "userChar": ""
       },
       {
@@ -201,16 +234,15 @@
         "row": 4,
         "col": 2,
         "isBlack": false,
-        "correctChar": "I",
-        "userChar": "",
-        "number": 9
+        "correctChar": "N",
+        "userChar": ""
       },
       {
         "id": "4-3",
         "row": 4,
         "col": 3,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "A",
         "userChar": ""
       },
       {
@@ -218,101 +250,178 @@
         "row": 4,
         "col": 4,
         "isBlack": false,
-        "correctChar": "B",
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "4-5",
+        "row": 4,
+        "col": 5,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "5-0",
+        "row": 5,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 10
+      },
+      {
+        "id": "5-1",
+        "row": 5,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "5-2",
+        "row": 5,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "5-3",
+        "row": 5,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "M",
+        "userChar": ""
+      },
+      {
+        "id": "5-4",
+        "row": 5,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "5-5",
+        "row": 5,
+        "col": 5,
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       }
     ]
   ],
   "clues": [
     {
-      "id": "8685ef70-098c-4cf9-be0f-38477aedf027",
+      "id": "99483cbd-c32c-4ce8-8b58-fed9e69a9b0b",
       "number": 1,
       "direction": "across",
-      "text": "La valle di Clès",
+      "text": "Si usa per chiamare una signora a Londra",
       "startRow": 0,
-      "startCol": 0,
-      "length": 3
+      "startCol": 1,
+      "length": 5
     },
     {
-      "id": "7d688dfe-1fbc-4986-8c82-53411cfb18d4",
+      "id": "cc8b3b91-a43e-4a65-9240-6f6d97da87f2",
       "number": 1,
       "direction": "down",
-      "text": "Il plurale majestatis",
+      "text": "Giocatore brasiliano",
       "startRow": 0,
-      "startCol": 0,
-      "length": 3
+      "startCol": 1,
+      "length": 6
     },
     {
-      "id": "488a985b-ef15-4161-bec9-fe4048f276f9",
+      "id": "6085eea7-7d4f-449f-8180-fcdb7a59a350",
       "number": 2,
       "direction": "down",
-      "text": "Invece di tutti",
+      "text": "Tessitrice che Atena trasformò in ragno",
       "startRow": 0,
-      "startCol": 1,
-      "length": 4
+      "startCol": 2,
+      "length": 6
     },
     {
-      "id": "2f8babce-f8c2-4816-bda5-da98664d0a1a",
+      "id": "eab3c6c7-b86c-4b16-85b8-98ac9ccd9912",
       "number": 3,
       "direction": "down",
-      "text": "Il bacino lacustre del Botswana scoperto da Livingstone",
+      "text": "La moneta del Marocco",
       "startRow": 0,
-      "startCol": 2,
-      "length": 5
+      "startCol": 3,
+      "length": 6
     },
     {
-      "id": "629b150a-f3a8-492c-a549-365df5ca6818",
+      "id": "c1428b38-dc1d-4a19-804e-a7520dee1715",
       "number": 4,
-      "direction": "across",
-      "text": "Il tempo in atto",
-      "startRow": 1,
-      "startCol": 0,
-      "length": 4
+      "direction": "down",
+      "text": "Destinare, assegnare",
+      "startRow": 0,
+      "startCol": 4,
+      "length": 6
     },
     {
-      "id": "6a446c1e-7353-4e44-b266-9a0f91f38ece",
+      "id": "44171f83-8800-429d-97f6-1e48214caf8c",
       "number": 5,
       "direction": "down",
-      "text": "International Criminal Police Organisation (sigla)",
-      "startRow": 1,
-      "startCol": 3,
+      "text": "Verso di felino domestico",
+      "startRow": 0,
+      "startCol": 5,
       "length": 4
     },
     {
-      "id": "69f5727f-d049-482d-bbd6-1e86246c38c3",
+      "id": "5711a43a-abb7-4114-a9c2-3f916f2cd519",
       "number": 6,
       "direction": "across",
-      "text": "Si ricorda con lo",
+      "text": "Secchi, privi d'acqua",
+      "startRow": 1,
+      "startCol": 1,
+      "length": 5
+    },
+    {
+      "id": "603ff882-fe71-4ed2-bd21-2b3d7667f792",
+      "number": 7,
+      "direction": "across",
+      "text": "Famoso ballo ungherese",
       "startRow": 2,
+      "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "56f82d52-876b-47f4-981f-1cf682a7a08f",
+      "number": 7,
+      "direction": "down",
+      "text": "Ha un nome comune",
+      "startRow": 2,
+      "startCol": 0,
+      "length": 4
+    },
+    {
+      "id": "869b106a-f760-417f-9afd-9afdfdd1f175",
+      "number": 8,
+      "direction": "across",
+      "text": "Se si irrita, piange",
+      "startRow": 3,
+      "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "4520feab-05bd-42d6-b735-a231cc3f0067",
+      "number": 9,
+      "direction": "across",
+      "text": "Localizza oggetti subacquei",
+      "startRow": 4,
       "startCol": 0,
       "length": 5
     },
     {
-      "id": "d22d6354-2a8f-4c85-8898-63946e5d71f1",
-      "number": 7,
-      "direction": "down",
-      "text": "L' abbreviazione dell' orbita",
-      "startRow": 2,
-      "startCol": 4,
-      "length": 3
-    },
-    {
-      "id": "33b46c43-6df1-4990-826e-3c942f0d8e35",
-      "number": 8,
+      "id": "43f286ad-0794-40e4-804a-ec72f5990b0a",
+      "number": 10,
       "direction": "across",
-      "text": "Impresa in breve",
-      "startRow": 3,
-      "startCol": 1,
-      "length": 4
-    },
-    {
-      "id": "18f0869b-3c68-445e-8f6f-a1b29d0e832f",
-      "number": 9,
-      "direction": "across",
-      "text": "Una classe velica",
-      "startRow": 4,
-      "startCol": 2,
-      "length": 3
+      "text": "Il gregge del curato",
+      "startRow": 5,
+      "startCol": 0,
+      "length": 5
     }
   ]
 }
