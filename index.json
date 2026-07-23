@@ -4,7 +4,7 @@
         "title": "Facile (5x5)",
         "url": "puzzles/puzzle_1.json",
         "groupId": "group_1",
-        "groupName": "Gruppo 1",
+        "groupName": "Volume 1",
         "difficulty": "easy"
     },
     {
@@ -12,7 +12,7 @@
         "title": "Medio (11x11)",
         "url": "puzzles/puzzle_2.json",
         "groupId": "group_1",
-        "groupName": "Gruppo 1",
+        "groupName": "Volume 1",
         "difficulty": "medium"
     },
     {
@@ -20,7 +20,7 @@
         "title": "Difficile (14x14)",
         "url": "puzzles/puzzle_3.json",
         "groupId": "group_1",
-        "groupName": "Gruppo 1",
+        "groupName": "Volume 1",
         "difficulty": "hard"
     },
     {
@@ -28,7 +28,7 @@
         "title": "Facile (5x5)",
         "url": "puzzles/puzzle_4.json",
         "groupId": "group_2",
-        "groupName": "Gruppo 2",
+        "groupName": "Volume 2",
         "difficulty": "easy"
     },
     {
@@ -36,7 +36,7 @@
         "title": "Medio (9x9)",
         "url": "puzzles/puzzle_5.json",
         "groupId": "group_2",
-        "groupName": "Gruppo 2",
+        "groupName": "Volume 2",
         "difficulty": "medium"
     },
     {
@@ -44,7 +44,7 @@
         "title": "Difficile (15x15)",
         "url": "puzzles/puzzle_6.json",
         "groupId": "group_2",
-        "groupName": "Gruppo 2",
+        "groupName": "Volume 2",
         "difficulty": "hard"
     },
     {
@@ -52,7 +52,7 @@
         "title": "Facile (5x5)",
         "url": "puzzles/puzzle_7.json",
         "groupId": "group_3",
-        "groupName": "Gruppo 3",
+        "groupName": "Volume 3",
         "difficulty": "easy"
     },
     {
@@ -60,7 +60,7 @@
         "title": "Medio (9x9)",
         "url": "puzzles/puzzle_8.json",
         "groupId": "group_3",
-        "groupName": "Gruppo 3",
+        "groupName": "Volume 3",
         "difficulty": "medium"
     },
     {
@@ -68,7 +68,7 @@
         "title": "Difficile (14x14)",
         "url": "puzzles/puzzle_9.json",
         "groupId": "group_3",
-        "groupName": "Gruppo 3",
+        "groupName": "Volume 3",
         "difficulty": "hard"
     },
     {
@@ -76,7 +76,7 @@
         "title": "Facile (6x6)",
         "url": "puzzles/puzzle_10.json",
         "groupId": "group_4",
-        "groupName": "Gruppo 4",
+        "groupName": "Volume 4",
         "difficulty": "easy"
     },
     {
@@ -84,7 +84,7 @@
         "title": "Medio (11x11)",
         "url": "puzzles/puzzle_11.json",
         "groupId": "group_4",
-        "groupName": "Gruppo 4",
+        "groupName": "Volume 4",
         "difficulty": "medium"
     },
     {
@@ -92,7 +92,7 @@
         "title": "Difficile (14x14)",
         "url": "puzzles/puzzle_12.json",
         "groupId": "group_4",
-        "groupName": "Gruppo 4",
+        "groupName": "Volume 4",
         "difficulty": "hard"
     },
     {
@@ -100,7 +100,7 @@
         "title": "Facile (5x5)",
         "url": "puzzles/puzzle_13.json",
         "groupId": "group_5",
-        "groupName": "Gruppo 5",
+        "groupName": "Volume 5",
         "difficulty": "easy"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Medio (10x10)",
         "url": "puzzles/puzzle_14.json",
         "groupId": "group_5",
-        "groupName": "Gruppo 5",
+        "groupName": "Volume 5",
         "difficulty": "medium"
     },
     {
@@ -116,7 +116,7 @@
         "title": "Difficile (14x14)",
         "url": "puzzles/puzzle_15.json",
         "groupId": "group_5",
-        "groupName": "Gruppo 5",
+        "groupName": "Volume 5",
         "difficulty": "hard"
     }
 ]
