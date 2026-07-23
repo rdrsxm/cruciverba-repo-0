@@ -22,5 +22,101 @@
         "groupId": "group_1",
         "groupName": "Gruppo 1",
         "difficulty": "hard"
+    },
+    {
+        "id": "90b6729a-e903-4583-aeb0-652b0f453936",
+        "title": "Facile (5x5)",
+        "url": "puzzles/puzzle_4.json",
+        "groupId": "group_2",
+        "groupName": "Gruppo 2",
+        "difficulty": "easy"
+    },
+    {
+        "id": "5417ec36-8727-4a69-99a0-da358e642a6a",
+        "title": "Medio (9x9)",
+        "url": "puzzles/puzzle_5.json",
+        "groupId": "group_2",
+        "groupName": "Gruppo 2",
+        "difficulty": "medium"
+    },
+    {
+        "id": "aa190b30-b17e-4952-a900-7a636c23c1ee",
+        "title": "Difficile (15x15)",
+        "url": "puzzles/puzzle_6.json",
+        "groupId": "group_2",
+        "groupName": "Gruppo 2",
+        "difficulty": "hard"
+    },
+    {
+        "id": "2ee4df42-5a72-43f1-87d1-a1a50887fea1",
+        "title": "Facile (5x5)",
+        "url": "puzzles/puzzle_7.json",
+        "groupId": "group_3",
+        "groupName": "Gruppo 3",
+        "difficulty": "easy"
+    },
+    {
+        "id": "889cd876-96fe-4c46-8332-63d8a26c9082",
+        "title": "Medio (9x9)",
+        "url": "puzzles/puzzle_8.json",
+        "groupId": "group_3",
+        "groupName": "Gruppo 3",
+        "difficulty": "medium"
+    },
+    {
+        "id": "fbff8b35-1016-45d6-8fb9-116f2c970ac5",
+        "title": "Difficile (14x14)",
+        "url": "puzzles/puzzle_9.json",
+        "groupId": "group_3",
+        "groupName": "Gruppo 3",
+        "difficulty": "hard"
+    },
+    {
+        "id": "3d1b88b2-476a-44f0-866e-108c35eca931",
+        "title": "Facile (6x6)",
+        "url": "puzzles/puzzle_10.json",
+        "groupId": "group_4",
+        "groupName": "Gruppo 4",
+        "difficulty": "easy"
+    },
+    {
+        "id": "5a9f58c4-185e-4526-949d-2760a6c8b0e3",
+        "title": "Medio (11x11)",
+        "url": "puzzles/puzzle_11.json",
+        "groupId": "group_4",
+        "groupName": "Gruppo 4",
+        "difficulty": "medium"
+    },
+    {
+        "id": "d9a98af5-3dc1-4f9d-a532-759fd15a7c43",
+        "title": "Difficile (14x14)",
+        "url": "puzzles/puzzle_12.json",
+        "groupId": "group_4",
+        "groupName": "Gruppo 4",
+        "difficulty": "hard"
+    },
+    {
+        "id": "6ce2b6d0-aed3-4964-b1ad-b0213790c5f7",
+        "title": "Facile (5x5)",
+        "url": "puzzles/puzzle_13.json",
+        "groupId": "group_5",
+        "groupName": "Gruppo 5",
+        "difficulty": "easy"
+    },
+    {
+        "id": "5846c328-2e16-4664-804a-04914fd9f4a7",
+        "title": "Medio (10x10)",
+        "url": "puzzles/puzzle_14.json",
+        "groupId": "group_5",
+        "groupName": "Gruppo 5",
+        "difficulty": "medium"
+    },
+    {
+        "id": "4f31e856-6aa5-4988-872d-4cbc22fb9bf5",
+        "title": "Difficile (14x14)",
+        "url": "puzzles/puzzle_15.json",
+        "groupId": "group_5",
+        "groupName": "Gruppo 5",
+        "difficulty": "hard"
     }
 ]
