@@ -1,57 +1,26 @@
 [
-    {   
-        "id": "47b575f1-5d2f-420b-ab3e-dd096f640c03",
-        "title": "Cruciverba 1",
-        "url": "puzzles/puzzle_1.json"
+    {
+        "id": "5ade0ec6-6f4a-4d92-af24-c6e9206489ca",
+        "title": "Facile (5x5)",
+        "url": "puzzles/puzzle_1.json",
+        "groupId": "group_1",
+        "groupName": "Gruppo 1",
+        "difficulty": "easy"
     },
-    {   
-        "id": "4a6727f0-f289-4000-b638-e4ef0ac47828",
-        "title": "Cruciverba 2",
-        "url": "puzzles/puzzle_2.json"
+    {
+        "id": "815546e0-0013-4414-9569-60a07af5331f",
+        "title": "Medio (11x11)",
+        "url": "puzzles/puzzle_2.json",
+        "groupId": "group_1",
+        "groupName": "Gruppo 1",
+        "difficulty": "medium"
     },
-    {   
-        "id": "508e8ab0-212d-41c1-aa57-aab7ddc1b775",
-        "title": "Cruciverba 3",
-        "url": "puzzles/puzzle_3.json"
-    },
-    {   
-        "id": "6a83a022-92f3-4b23-95fa-d9502e9ec559",
-        "title": "Cruciverba 4",
-        "url": "puzzles/puzzle_4.json"
-    },
-    {   
-        "id": "1b2fbe2f-8409-4457-993a-cad30435f6bc",
-        "title": "Cruciverba 5",
-        "url": "puzzles/puzzle_5.json"
-    },
-    {   
-        "id": "77ffd4f2-c57f-4768-9b64-e4d06787bc2d",
-        "title": "Cruciverba 6",
-        "url": "puzzles/puzzle_6.json"
-    },
-    {   
-        "id": "4e51290c-35aa-47b7-b66e-769e7ac338bf",
-        "title": "Cruciverba 7",
-        "url": "puzzles/puzzle_7.json"
-    },
-    {   
-        "id": "9bf52d2d-4a29-4f20-b1af-ce27c02fe4aa",
-        "title": "Cruciverba 8",
-        "url": "puzzles/puzzle_8.json"
-    },
-    {   
-        "id": "74f003c9-3cc7-4953-92c7-7c9e7e264b37",
-        "title": "Cruciverba 9",
-        "url": "puzzles/puzzle_9.json"
-    },
-    {   
-        "id": "a361d588-63a3-4967-acea-c22637f89396",
-        "title": "Cruciverba 11",
-        "url": "puzzles/puzzle_11.json"
-    },
-    {   
-        "id": "c21f423b-6ec5-4c65-bbfe-3b75bf71c524",
-        "title": "Cruciverba 12",
-        "url": "puzzles/puzzle_12.json"
+    {
+        "id": "9782e147-baa5-475e-bf9c-87edaad36e7f",
+        "title": "Difficile (13x13)",
+        "url": "puzzles/puzzle_3.json",
+        "groupId": "group_1",
+        "groupName": "Gruppo 1",
+        "difficulty": "hard"
     }
 ]
