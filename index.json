@@ -1,27 +1,17 @@
 [
     {   
-        "id": "6e8c2572-80dd-48a4-be28-660f90439441",
+        "id": "87ef68ab-5dfb-4379-93ad-cab6abffd802",
         "title": "Cruciverba 1",
         "url": "puzzles/puzzle_1.json"
     },
     {   
-        "id": "8cddc8ae-c0bb-4c22-bee1-1f7cbebf0d07",
+        "id": "5e30a25f-45df-442f-a158-e649be0a7ba2",
         "title": "Cruciverba 2",
         "url": "puzzles/puzzle_2.json"
     },
     {   
-        "id": "84312a52-ae93-48d1-8408-5350eee44362",
+        "id": "01213e4f-fdfc-4abc-9f01-ca601f01c948",
         "title": "Cruciverba 3",
         "url": "puzzles/puzzle_3.json"
-    },
-    {   
-        "id": "15183161-e0ca-4ef5-8cd9-5a32910c1e50",
-        "title": "Cruciverba 4",
-        "url": "puzzles/puzzle_4.json"
-    },
-    {   
-        "id": "e63a0e9e-bc1e-4947-8623-14905a1114eb",
-        "title": "Cruciverba 5",
-        "url": "puzzles/puzzle_5.json"
     }
 ]
