@@ -1,5 +1,5 @@
 {
-  "id": "5ade0ec6-6f4a-4d92-af24-c6e9206489ca",
+  "id": "93ec5ddd-4142-4143-a120-be6a82308fe4",
   "width": 5,
   "height": 5,
   "cells": [
@@ -17,7 +17,7 @@
         "row": 0,
         "col": 1,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "A",
         "userChar": "",
         "number": 1
       },
@@ -26,7 +26,7 @@
         "row": 0,
         "col": 2,
         "isBlack": false,
-        "correctChar": "C",
+        "correctChar": "R",
         "userChar": "",
         "number": 2
       },
@@ -35,7 +35,7 @@
         "row": 0,
         "col": 3,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "T",
         "userChar": "",
         "number": 3
       },
@@ -43,10 +43,9 @@
         "id": "0-4",
         "row": 0,
         "col": 4,
-        "isBlack": false,
-        "correctChar": "P",
-        "userChar": "",
-        "number": 4
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       }
     ],
     [
@@ -54,18 +53,18 @@
         "id": "1-0",
         "row": 1,
         "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "B",
+        "userChar": "",
+        "number": 4
       },
       {
         "id": "1-1",
         "row": 1,
         "col": 1,
         "isBlack": false,
-        "correctChar": "S",
-        "userChar": "",
-        "number": 5
+        "correctChar": "L",
+        "userChar": ""
       },
       {
         "id": "1-2",
@@ -80,7 +79,7 @@
         "row": 1,
         "col": 3,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -88,8 +87,9 @@
         "row": 1,
         "col": 4,
         "isBlack": false,
-        "correctChar": "U",
-        "userChar": ""
+        "correctChar": "S",
+        "userChar": "",
+        "number": 5
       }
     ],
     [
@@ -98,7 +98,7 @@
         "row": 2,
         "col": 0,
         "isBlack": false,
-        "correctChar": "B",
+        "correctChar": "I",
         "userChar": "",
         "number": 6
       },
@@ -107,7 +107,7 @@
         "row": 2,
         "col": 1,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "O",
         "userChar": ""
       },
       {
@@ -115,7 +115,7 @@
         "row": 2,
         "col": 2,
         "isBlack": false,
-        "correctChar": "H",
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -123,7 +123,7 @@
         "row": 2,
         "col": 3,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -131,7 +131,7 @@
         "row": 2,
         "col": 4,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "I",
         "userChar": ""
       }
     ],
@@ -141,7 +141,7 @@
         "row": 3,
         "col": 0,
         "isBlack": false,
-        "correctChar": "G",
+        "correctChar": "A",
         "userChar": "",
         "number": 7
       },
@@ -150,7 +150,7 @@
         "row": 3,
         "col": 1,
         "isBlack": false,
-        "correctChar": "L",
+        "correctChar": "S",
         "userChar": ""
       },
       {
@@ -158,7 +158,7 @@
         "row": 3,
         "col": 2,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -166,15 +166,15 @@
         "row": 3,
         "col": 3,
         "isBlack": false,
-        "correctChar": "B",
+        "correctChar": "O",
         "userChar": ""
       },
       {
         "id": "3-4",
         "row": 3,
         "col": 4,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "R",
         "userChar": ""
       }
     ],
@@ -183,25 +183,25 @@
         "id": "4-0",
         "row": 4,
         "col": 0,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": "",
-        "number": 8
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "4-1",
         "row": 4,
         "col": 1,
         "isBlack": false,
-        "correctChar": "G",
-        "userChar": ""
+        "correctChar": "T",
+        "userChar": "",
+        "number": 8
       },
       {
         "id": "4-2",
         "row": 4,
         "col": 2,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "O",
         "userChar": ""
       },
       {
@@ -209,7 +209,7 @@
         "row": 4,
         "col": 3,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "V",
         "userChar": ""
       },
       {
@@ -224,94 +224,94 @@
   ],
   "clues": [
     {
-      "id": "c656e8fe-e6fb-4a17-958f-414f404b3fe6",
+      "id": "a50731bc-be58-4967-814e-3cd30fefdd16",
       "number": 1,
       "direction": "across",
-      "text": "Ente Confederale Addestramento Professionale",
+      "text": "Il Garfunkel della canzone",
       "startRow": 0,
       "startCol": 1,
-      "length": 4
+      "length": 3
     },
     {
-      "id": "d7c9bcbd-b52b-41fd-be28-406685a11b81",
+      "id": "d6e77d15-a614-46b1-ab05-9182b4ba4ba4",
       "number": 1,
       "direction": "down",
-      "text": "Grappolo",
+      "text": "Aalst... in Francia",
       "startRow": 0,
       "startCol": 1,
       "length": 5
     },
     {
-      "id": "65112ca4-c495-443d-bf64-2d6151edcbcb",
+      "id": "6aeb308f-2ba3-4323-8842-dbe8bdc5d389",
       "number": 2,
       "direction": "down",
-      "text": "Leonard della musica",
+      "text": "Finito in frantumi",
       "startRow": 0,
       "startCol": 2,
       "length": 5
     },
     {
-      "id": "cf8bfb0d-c875-41dd-80bc-77f61c5d412a",
+      "id": "86b4ba3b-d43a-4087-98b3-e8bf33f15785",
       "number": 3,
       "direction": "down",
-      "text": "Lasciarono agli europei le cifre dallo 0 al 9",
+      "text": "German, astronauta sovietico",
       "startRow": 0,
       "startCol": 3,
       "length": 5
     },
     {
-      "id": "7a52e735-8c0e-483c-9080-350655a3f003",
+      "id": "4534455b-b480-43e4-8823-a64e9bd990a8",
+      "number": 4,
+      "direction": "across",
+      "text": "Vi sorge uno dei più bei castelli della Loira",
+      "startRow": 1,
+      "startCol": 0,
+      "length": 5
+    },
+    {
+      "id": "fb217ebe-c7b4-42c0-b773-c8dcd7b97e95",
       "number": 4,
       "direction": "down",
-      "text": "Sebbene",
-      "startRow": 0,
+      "text": "La mitica figlia di Pallas e di Stige",
+      "startRow": 1,
+      "startCol": 0,
+      "length": 3
+    },
+    {
+      "id": "8cf4d44c-2d9a-4237-967d-6c97565bcc66",
+      "number": 5,
+      "direction": "down",
+      "text": "Lo era anche il grande attore Laurence Olivier",
+      "startRow": 1,
       "startCol": 4,
       "length": 3
     },
     {
-      "id": "263725d5-9e9d-424a-ad68-1108279fb339",
-      "number": 5,
-      "direction": "across",
-      "text": "Imprenditore già presidente di regione",
-      "startRow": 1,
-      "startCol": 1,
-      "length": 4
-    },
-    {
-      "id": "5a2e3a20-dc95-488d-bae5-70c98c06070c",
+      "id": "cb98b863-5a97-4e4f-a62a-5ef4a9b56527",
       "number": 6,
       "direction": "across",
-      "text": "Stato dell'Unione Indiana",
+      "text": "La prima donna alla presidenza della Camera",
       "startRow": 2,
       "startCol": 0,
       "length": 5
     },
     {
-      "id": "a6e75d57-c599-42fe-963d-2d7fbc8877b7",
-      "number": 6,
-      "direction": "down",
-      "text": "Board Game Online (sigla)",
-      "startRow": 2,
-      "startCol": 0,
-      "length": 3
-    },
-    {
-      "id": "d8f0b78a-b04a-4fc9-b4fa-0e3b9fa75dfe",
+      "id": "1d279fcb-4eea-4b47-a75f-9a96eb7341f6",
       "number": 7,
       "direction": "across",
-      "text": "Un nome del narratore russo Uspenskij",
+      "text": "Nome del musicista Piazzolla",
       "startRow": 3,
       "startCol": 0,
-      "length": 4
+      "length": 5
     },
     {
-      "id": "72ebcd9f-a472-4944-8ae7-960f5fefea86",
+      "id": "369deaf7-d285-4345-a6c2-21f8a833b79e",
       "number": 8,
       "direction": "across",
-      "text": "È come... ciascuno",
+      "text": "La provincia mongola della capitale Ulan Bator",
       "startRow": 4,
-      "startCol": 0,
-      "length": 4
+      "startCol": 1,
+      "length": 3
     }
   ]
 }

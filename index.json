@@ -1,6 +1,6 @@
 [
     {
-        "id": "5ade0ec6-6f4a-4d92-af24-c6e9206489ca",
+        "id": "de37f488-0c1c-4832-b3ea-d13482c5ec4a",
         "title": "Facile (5x5)",
         "url": "puzzles/puzzle_1.json",
         "groupId": "group_1",
@@ -8,19 +8,67 @@
         "difficulty": "easy"
     },
     {
-        "id": "815546e0-0013-4414-9569-60a07af5331f",
-        "title": "Medio (11x11)",
+        "id": "8ba7aca9-9fac-45b8-b860-6829376eb566",
+        "title": "Medio (10x10)",
         "url": "puzzles/puzzle_2.json",
         "groupId": "group_1",
         "groupName": "Gruppo 1",
         "difficulty": "medium"
     },
     {
-        "id": "9782e147-baa5-475e-bf9c-87edaad36e7f",
+        "id": "700b7c7b-a51e-47e3-85c0-4acc57500118",
         "title": "Difficile (13x13)",
         "url": "puzzles/puzzle_3.json",
         "groupId": "group_1",
         "groupName": "Gruppo 1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "b0c8c329-517a-4cd0-a2ce-733b34066c84",
+        "title": "Facile (6x6)",
+        "url": "puzzles/puzzle_1.json",
+        "groupId": "group_2",
+        "groupName": "Gruppo 2",
+        "difficulty": "easy"
+    },
+    {
+        "id": "4df9c911-b74d-4bbd-a4cf-f4dac5f2a98b",
+        "title": "Medio (10x10)",
+        "url": "puzzles/puzzle_2.json",
+        "groupId": "group_2",
+        "groupName": "Gruppo 2",
+        "difficulty": "medium"
+    },
+    {
+        "id": "092e9077-0850-4ed2-bb34-c0847b9e1a56",
+        "title": "Difficile (14x14)",
+        "url": "puzzles/puzzle_3.json",
+        "groupId": "group_2",
+        "groupName": "Gruppo 2",
+        "difficulty": "hard"
+    },
+    {
+        "id": "93ec5ddd-4142-4143-a120-be6a82308fe4",
+        "title": "Facile (5x5)",
+        "url": "puzzles/puzzle_1.json",
+        "groupId": "group_3",
+        "groupName": "Gruppo 3",
+        "difficulty": "easy"
+    },
+    {
+        "id": "c2f3dc17-9460-46f9-87f7-9ad346e77bd6",
+        "title": "Medio (11x11)",
+        "url": "puzzles/puzzle_2.json",
+        "groupId": "group_3",
+        "groupName": "Gruppo 3",
+        "difficulty": "medium"
+    },
+    {
+        "id": "4a693b94-9d59-4033-9bff-42450e4ec0c4",
+        "title": "Difficile (14x14)",
+        "url": "puzzles/puzzle_3.json",
+        "groupId": "group_3",
+        "groupName": "Gruppo 3",
         "difficulty": "hard"
     }
 ]
