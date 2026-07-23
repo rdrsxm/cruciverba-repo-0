@@ -1,5 +1,5 @@
 {
-  "id": "6e8c2572-80dd-48a4-be28-660f90439441",
+  "id": "e63a0e9e-bc1e-4947-8623-14905a1114eb",
   "width": 9,
   "height": 9,
   "cells": [
@@ -33,7 +33,7 @@
         "row": 0,
         "col": 3,
         "isBlack": false,
-        "correctChar": "B",
+        "correctChar": "N",
         "userChar": "",
         "number": 1
       },
@@ -42,7 +42,7 @@
         "row": 0,
         "col": 4,
         "isBlack": false,
-        "correctChar": "L",
+        "correctChar": "A",
         "userChar": "",
         "number": 2
       },
@@ -51,7 +51,7 @@
         "row": 0,
         "col": 5,
         "isBlack": false,
-        "correctChar": "D",
+        "correctChar": "S",
         "userChar": "",
         "number": 3
       },
@@ -110,7 +110,7 @@
         "row": 1,
         "col": 3,
         "isBlack": false,
-        "correctChar": "L",
+        "correctChar": "A",
         "userChar": "",
         "number": 4
       },
@@ -119,7 +119,7 @@
         "row": 1,
         "col": 4,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "C",
         "userChar": ""
       },
       {
@@ -127,7 +127,7 @@
         "row": 1,
         "col": 5,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "C",
         "userChar": ""
       },
       {
@@ -185,7 +185,7 @@
         "row": 2,
         "col": 3,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "S",
         "userChar": "",
         "number": 5
       },
@@ -194,7 +194,7 @@
         "row": 2,
         "col": 4,
         "isBlack": false,
-        "correctChar": "T",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -202,7 +202,7 @@
         "row": 2,
         "col": 5,
         "isBlack": false,
-        "correctChar": "S",
+        "correctChar": "O",
         "userChar": ""
       },
       {
@@ -236,7 +236,7 @@
         "row": 3,
         "col": 0,
         "isBlack": false,
-        "correctChar": "D",
+        "correctChar": "C",
         "userChar": "",
         "number": 6
       },
@@ -245,7 +245,7 @@
         "row": 3,
         "col": 1,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "O",
         "userChar": "",
         "number": 7
       },
@@ -254,7 +254,7 @@
         "row": 3,
         "col": 2,
         "isBlack": false,
-        "correctChar": "P",
+        "correctChar": "N",
         "userChar": "",
         "number": 8
       },
@@ -279,7 +279,7 @@
         "row": 3,
         "col": 5,
         "isBlack": false,
-        "correctChar": "M",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -287,7 +287,7 @@
         "row": 3,
         "col": 6,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "Z",
         "userChar": "",
         "number": 9
       },
@@ -296,7 +296,7 @@
         "row": 3,
         "col": 7,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "I",
         "userChar": "",
         "number": 10
       },
@@ -305,7 +305,7 @@
         "row": 3,
         "col": 8,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "O",
         "userChar": "",
         "number": 11
       }
@@ -316,7 +316,7 @@
         "row": 4,
         "col": 0,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "A",
         "userChar": "",
         "number": 12
       },
@@ -325,7 +325,7 @@
         "row": 4,
         "col": 1,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "S",
         "userChar": ""
       },
       {
@@ -333,7 +333,7 @@
         "row": 4,
         "col": 2,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "S",
         "userChar": ""
       },
       {
@@ -341,7 +341,7 @@
         "row": 4,
         "col": 3,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -357,7 +357,7 @@
         "row": 4,
         "col": 5,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -365,7 +365,7 @@
         "row": 4,
         "col": 6,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -373,7 +373,7 @@
         "row": 4,
         "col": 7,
         "isBlack": false,
-        "correctChar": "D",
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -381,7 +381,7 @@
         "row": 4,
         "col": 8,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "A",
         "userChar": ""
       }
     ],
@@ -400,7 +400,7 @@
         "row": 5,
         "col": 1,
         "isBlack": false,
-        "correctChar": "C",
+        "correctChar": "P",
         "userChar": ""
       },
       {
@@ -408,7 +408,7 @@
         "row": 5,
         "col": 2,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "A",
         "userChar": ""
       },
       {
@@ -416,7 +416,7 @@
         "row": 5,
         "col": 3,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -424,7 +424,7 @@
         "row": 5,
         "col": 4,
         "isBlack": false,
-        "correctChar": "F",
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -432,7 +432,7 @@
         "row": 5,
         "col": 5,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "E",
         "userChar": ""
       },
       {
@@ -440,7 +440,7 @@
         "row": 5,
         "col": 6,
         "isBlack": false,
-        "correctChar": "T",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -448,7 +448,7 @@
         "row": 5,
         "col": 7,
         "isBlack": false,
-        "correctChar": "T",
+        "correctChar": "N",
         "userChar": ""
       },
       {
@@ -490,7 +490,7 @@
         "row": 6,
         "col": 3,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "I",
         "userChar": "",
         "number": 14
       },
@@ -499,7 +499,7 @@
         "row": 6,
         "col": 4,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -507,7 +507,7 @@
         "row": 6,
         "col": 5,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "S",
         "userChar": ""
       },
       {
@@ -565,7 +565,7 @@
         "row": 7,
         "col": 3,
         "isBlack": false,
-        "correctChar": "T",
+        "correctChar": "Y",
         "userChar": "",
         "number": 15
       },
@@ -574,7 +574,7 @@
         "row": 7,
         "col": 4,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "C",
         "userChar": ""
       },
       {
@@ -582,7 +582,7 @@
         "row": 7,
         "col": 5,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -640,7 +640,7 @@
         "row": 8,
         "col": 3,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "A",
         "userChar": "",
         "number": 16
       },
@@ -649,7 +649,7 @@
         "row": 8,
         "col": 4,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -657,7 +657,7 @@
         "row": 8,
         "col": 5,
         "isBlack": false,
-        "correctChar": "S",
+        "correctChar": "A",
         "userChar": ""
       },
       {
@@ -688,163 +688,163 @@
   ],
   "clues": [
     {
-      "id": "5e61b512-c0f2-45e4-9d56-81b2499d6f3a",
+      "id": "2e749a82-55db-433c-8841-7542a078a6b1",
       "number": 1,
       "direction": "across",
-      "text": "L' abbreviazione di boulevard",
+      "text": "I carabinieri contro le sofisticazioni (sigla)",
       "startRow": 0,
       "startCol": 3,
       "length": 3
     },
     {
-      "id": "6f8e2f90-6565-40f7-8bfa-4fb269d6cfc5",
+      "id": "4e9b7e92-31fe-4da9-a262-744983d8068e",
       "number": 1,
       "direction": "down",
-      "text": "Lo sono tutti i nobili",
+      "text": "IIl ministro Martino è ancora convinto che fosse un posto a basso rischio",
       "startRow": 0,
       "startCol": 3,
       "length": 9
     },
     {
-      "id": "86c58319-c91d-4570-a27e-2e1ba92b0faf",
+      "id": "83de3e48-e082-42e8-a9ee-a4b0e99e48c2",
       "number": 2,
       "direction": "down",
-      "text": "La parte più esterna del nostro pianeta",
+      "text": "Giochi di enigmistica classica",
       "startRow": 0,
       "startCol": 4,
       "length": 9
     },
     {
-      "id": "debf2443-760c-4211-909f-fada3c7670ec",
+      "id": "bc752917-1fb3-42c5-9201-e9b4afffd288",
       "number": 3,
       "direction": "down",
-      "text": "La capitale dello Iowa",
+      "text": "Un'azione sgarbata",
       "startRow": 0,
       "startCol": 5,
       "length": 9
     },
     {
-      "id": "602e2530-96cd-4f3d-bbfd-20b95b56333f",
+      "id": "60bc5d66-eae7-4415-9631-f116d0492007",
       "number": 4,
       "direction": "across",
-      "text": "La bugia degli Inglesi",
+      "text": "Accusativo abbr.",
       "startRow": 1,
       "startCol": 3,
       "length": 3
     },
     {
-      "id": "a90d97c7-b533-4b4d-ae4d-c7fffca7cc85",
+      "id": "e60fc2d7-ed3b-4d25-9d8f-9c9487df9d51",
       "number": 5,
       "direction": "across",
-      "text": "Sportello bancario automatico (Automatic Teller System)",
+      "text": "Self Regulatory Organization",
       "startRow": 2,
       "startCol": 3,
       "length": 3
     },
     {
-      "id": "db9d311f-1fdf-40cc-af37-a24c2435dc9b",
+      "id": "00b4ac4f-898d-4ea7-b027-acd445e68e31",
       "number": 6,
       "direction": "across",
-      "text": "Bevono per un impulso incontrollabile",
+      "text": "Un'associazione tra enti",
       "startRow": 3,
       "startCol": 0,
       "length": 9
     },
     {
-      "id": "86c36a32-276b-4d72-874a-0c87223d57fe",
+      "id": "9d2aea7c-17bc-4612-b937-faafa2a9e1c5",
       "number": 6,
       "direction": "down",
-      "text": "Disegno (abbréviazione)",
+      "text": "Le vere iniziali di Trilussa",
       "startRow": 3,
       "startCol": 0,
       "length": 3
     },
     {
-      "id": "972f7536-aef0-40e8-b754-6c8f31de64c4",
+      "id": "7bca64ef-4407-496b-a590-e8a5464a1d93",
       "number": 7,
       "direction": "down",
-      "text": "International Olympic Committee",
+      "text": "Ospedale (abbreviato)",
       "startRow": 3,
       "startCol": 1,
       "length": 3
     },
     {
-      "id": "db1eb22d-5aa3-44b7-bf7a-d99b17db4de6",
+      "id": "bb24773d-740b-485b-9f3d-9f3d4843ff22",
       "number": 8,
       "direction": "down",
-      "text": "L' ultimo è stato il XII",
+      "text": "Agenzia per la Sicurezza Nazionale",
       "startRow": 3,
       "startCol": 2,
       "length": 3
     },
     {
-      "id": "8fd95d65-cce6-4cf3-8f82-d2baec233729",
+      "id": "3d8edd95-2dab-4c6e-b080-d24e8b0129df",
       "number": 9,
       "direction": "down",
-      "text": "Anteriore (abbr.)",
+      "text": "Padre e madre dei cugini",
       "startRow": 3,
       "startCol": 6,
       "length": 3
     },
     {
-      "id": "6527d52a-1985-48b8-9d55-6eec6888060f",
+      "id": "48ef60f9-29c0-4fdb-bd4b-dd4e9211039d",
       "number": 10,
       "direction": "down",
-      "text": "La mette il traduttore a fondo pagina (sigla)",
+      "text": "Andato in poesia",
       "startRow": 3,
       "startCol": 7,
       "length": 3
     },
     {
-      "id": "c173b7e4-5474-4f8f-a1a6-e165b21c2c42",
+      "id": "39af49f2-a50d-4ee9-98a2-4efdf5f07ef4",
       "number": 11,
       "direction": "down",
-      "text": "International Energy Agency",
+      "text": "Organizzazione per l'Alimentazione e l'Agricoltura",
       "startRow": 3,
       "startCol": 8,
       "length": 3
     },
     {
-      "id": "a9ae35e0-4f64-4055-90af-789d1f7ea839",
+      "id": "640f2dee-c054-44e2-82dd-28f750d80f9c",
       "number": 12,
       "direction": "across",
-      "text": "Mandano onde radio in alto, nell'atmosfera",
+      "text": "Così è la pedalata di certe biciclette",
       "startRow": 4,
       "startCol": 0,
       "length": 9
     },
     {
-      "id": "def9b9c3-ff3a-4f04-b3b1-0243515556c5",
+      "id": "10a73d32-861d-4126-851d-f7d1747c87e8",
       "number": 13,
       "direction": "across",
-      "text": "Chi la subisce ha perso",
+      "text": "Alcaloide contenuto nei fiori della ginestra",
       "startRow": 5,
       "startCol": 0,
       "length": 9
     },
     {
-      "id": "54e89b4e-541b-4990-95b0-29245ae9d3ca",
+      "id": "c5c4b7e9-d7b2-4a61-ae45-3b7e13322da7",
       "number": 14,
       "direction": "across",
-      "text": "Il Nordenskjöld esploratore svedese (iniziali)",
+      "text": "Istituto Internazionale di Statistica (iniz.)",
       "startRow": 6,
       "startCol": 3,
       "length": 3
     },
     {
-      "id": "dcb1df41-44d4-4ea6-bc6d-743c23fade0b",
+      "id": "f6463ba5-46c2-4d2e-a14f-8976470adc5f",
       "number": 15,
       "direction": "across",
-      "text": "Radice quadrata di nove",
+      "text": "Yach Club d'Italia (sigla)",
       "startRow": 7,
       "startCol": 3,
       "length": 3
     },
     {
-      "id": "fd77c32d-0a5b-4468-84e5-3cfc36e16a7a",
+      "id": "2d7314fa-2389-4e44-8319-1b2e2487f726",
       "number": 16,
       "direction": "across",
-      "text": "Il politico Gawronski",
+      "text": "Lo spiazzo della cascina",
       "startRow": 8,
       "startCol": 3,
       "length": 3
