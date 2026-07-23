@@ -44,10 +44,14 @@
         "title": "Cruciverba 9",
         "url": "puzzles/puzzle_9.json"
     },
-
     {   
         "id": "a361d588-63a3-4967-acea-c22637f89396",
         "title": "Cruciverba 11",
         "url": "puzzles/puzzle_11.json"
-    }
+    },
+    {   
+        "id": "c21f423b-6ec5-4c65-bbfe-3b75bf71c524",
+        "title": "Cruciverba 12",
+        "url": "puzzles/puzzle_12.json"
+    },
 ]

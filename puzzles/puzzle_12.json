@@ -1,0 +1,428 @@
+{
+  "id": "c21f423b-6ec5-4c65-bbfe-3b75bf71c524",
+  "width": 6,
+  "height": 6,
+  "cells": [
+    [
+      {
+        "id": "0-0",
+        "row": 0,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "C",
+        "userChar": "",
+        "number": 1
+      },
+      {
+        "id": "0-1",
+        "row": 0,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "L",
+        "userChar": "",
+        "number": 2
+      },
+      {
+        "id": "0-2",
+        "row": 0,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 3
+      },
+      {
+        "id": "0-3",
+        "row": 0,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": "",
+        "number": 4
+      },
+      {
+        "id": "0-4",
+        "row": 0,
+        "col": 4,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "0-5",
+        "row": 0,
+        "col": 5,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "1-0",
+        "row": 1,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 5
+      },
+      {
+        "id": "1-1",
+        "row": 1,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "1-2",
+        "row": 1,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": ""
+      },
+      {
+        "id": "1-3",
+        "row": 1,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "1-4",
+        "row": 1,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": "",
+        "number": 6
+      },
+      {
+        "id": "1-5",
+        "row": 1,
+        "col": 5,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "2-0",
+        "row": 2,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "V",
+        "userChar": "",
+        "number": 7
+      },
+      {
+        "id": "2-1",
+        "row": 2,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "2-2",
+        "row": 2,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "2-3",
+        "row": 2,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "2-4",
+        "row": 2,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "2-5",
+        "row": 2,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": "",
+        "number": 8
+      }
+    ],
+    [
+      {
+        "id": "3-0",
+        "row": 3,
+        "col": 0,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 9
+      },
+      {
+        "id": "3-1",
+        "row": 3,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "L",
+        "userChar": ""
+      },
+      {
+        "id": "3-2",
+        "row": 3,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": ""
+      },
+      {
+        "id": "3-3",
+        "row": 3,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "3-4",
+        "row": 3,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      },
+      {
+        "id": "3-5",
+        "row": 3,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "4-0",
+        "row": 4,
+        "col": 0,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "4-1",
+        "row": 4,
+        "col": 1,
+        "isBlack": false,
+        "correctChar": "I",
+        "userChar": "",
+        "number": 10
+      },
+      {
+        "id": "4-2",
+        "row": 4,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      },
+      {
+        "id": "4-3",
+        "row": 4,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "R",
+        "userChar": ""
+      },
+      {
+        "id": "4-4",
+        "row": 4,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": ""
+      },
+      {
+        "id": "4-5",
+        "row": 4,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": ""
+      }
+    ],
+    [
+      {
+        "id": "5-0",
+        "row": 5,
+        "col": 0,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "5-1",
+        "row": 5,
+        "col": 1,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
+        "id": "5-2",
+        "row": 5,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": "",
+        "number": 11
+      },
+      {
+        "id": "5-3",
+        "row": 5,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": ""
+      },
+      {
+        "id": "5-4",
+        "row": 5,
+        "col": 4,
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": ""
+      },
+      {
+        "id": "5-5",
+        "row": 5,
+        "col": 5,
+        "isBlack": false,
+        "correctChar": "N",
+        "userChar": ""
+      }
+    ]
+  ],
+  "clues": [
+    {
+      "id": "c2e6cd81-d11d-47f6-9192-a2b7a3fa90d1",
+      "number": 1,
+      "direction": "across",
+      "text": "La \"tribù\" scozzese",
+      "startRow": 0,
+      "startCol": 0,
+      "length": 4
+    },
+    {
+      "id": "3ac71cd6-8db9-43dd-aa3a-6e47ddb5355d",
+      "number": 1,
+      "direction": "down",
+      "text": "Miniere a cielo aperto",
+      "startRow": 0,
+      "startCol": 0,
+      "length": 4
+    },
+    {
+      "id": "39a0acae-3c2a-440e-b198-41bcb9b184df",
+      "number": 2,
+      "direction": "down",
+      "text": "Fausto cantautore",
+      "startRow": 0,
+      "startCol": 1,
+      "length": 5
+    },
+    {
+      "id": "2538e0bb-dd17-4a7c-a4ee-da5acfcf34d6",
+      "number": 3,
+      "direction": "down",
+      "text": "Il calciatore Mutu",
+      "startRow": 0,
+      "startCol": 2,
+      "length": 6
+    },
+    {
+      "id": "7f2a2709-3c59-428e-b399-0fc5949959bd",
+      "number": 4,
+      "direction": "down",
+      "text": "Verbo da osservatori",
+      "startRow": 0,
+      "startCol": 3,
+      "length": 6
+    },
+    {
+      "id": "a35d9e4b-70d1-4f3a-b3d4-e194bd6629e3",
+      "number": 5,
+      "direction": "across",
+      "text": "Una rivista de \"Il Mulino\"",
+      "startRow": 1,
+      "startCol": 0,
+      "length": 5
+    },
+    {
+      "id": "7a9e2ea1-e0d4-4500-9675-3cfb2938d7ce",
+      "number": 6,
+      "direction": "down",
+      "text": "Il Martellini indimenticato telecronista",
+      "startRow": 1,
+      "startCol": 4,
+      "length": 5
+    },
+    {
+      "id": "6ec743e0-ee66-43b8-8045-12f6c31e1343",
+      "number": 7,
+      "direction": "across",
+      "text": "Silvy nota cantante francese",
+      "startRow": 2,
+      "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "78df38f9-4c59-4fbd-a86a-2ba9582207fe",
+      "number": 8,
+      "direction": "down",
+      "text": "Un farmaco che calma",
+      "startRow": 2,
+      "startCol": 5,
+      "length": 4
+    },
+    {
+      "id": "14331fda-9cfd-4274-87f5-6e9cdf548667",
+      "number": 9,
+      "direction": "across",
+      "text": "Claudio, sofista romano del 1° sec. d.C.",
+      "startRow": 3,
+      "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "3c02f4d3-154b-44e7-8ef3-b65c12808d63",
+      "number": 10,
+      "direction": "across",
+      "text": "Una misura inglese",
+      "startRow": 4,
+      "startCol": 1,
+      "length": 5
+    },
+    {
+      "id": "ac9d7413-e23a-4d08-a71e-1aec7558ca70",
+      "number": 11,
+      "direction": "across",
+      "text": "Gas che illumina e non brucia",
+      "startRow": 5,
+      "startCol": 2,
+      "length": 4
+    }
+  ]
+}
