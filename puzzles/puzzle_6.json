@@ -1,5 +1,5 @@
 {
-  "id": "508e8ab0-212d-41c1-aa57-aab7ddc1b775",
+  "id": "77ffd4f2-c57f-4768-9b64-e4d06787bc2d",
   "width": 11,
   "height": 11,
   "cells": [
@@ -18,7 +18,7 @@
         "row": 0,
         "col": 1,
         "isBlack": false,
-        "correctChar": "B",
+        "correctChar": "D",
         "userChar": "",
         "number": 2
       },
@@ -27,7 +27,7 @@
         "row": 0,
         "col": 2,
         "isBlack": false,
-        "correctChar": "D",
+        "correctChar": "S",
         "userChar": "",
         "number": 3
       },
@@ -36,7 +36,7 @@
         "row": 0,
         "col": 3,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "O",
         "userChar": "",
         "number": 4
       },
@@ -44,19 +44,17 @@
         "id": "0-4",
         "row": 0,
         "col": 4,
-        "isBlack": false,
-        "correctChar": "R",
-        "userChar": "",
-        "number": 5
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "0-5",
         "row": 0,
         "col": 5,
-        "isBlack": false,
-        "correctChar": "A",
-        "userChar": "",
-        "number": 6
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "0-6",
@@ -71,27 +69,27 @@
         "row": 0,
         "col": 7,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "O",
         "userChar": "",
-        "number": 7
+        "number": 5
       },
       {
         "id": "0-8",
         "row": 0,
         "col": 8,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "O",
         "userChar": "",
-        "number": 8
+        "number": 6
       },
       {
         "id": "0-9",
         "row": 0,
         "col": 9,
         "isBlack": false,
-        "correctChar": "G",
+        "correctChar": "I",
         "userChar": "",
-        "number": 9
+        "number": 7
       },
       {
         "id": "0-10",
@@ -108,16 +106,16 @@
         "row": 1,
         "col": 0,
         "isBlack": false,
-        "correctChar": "L",
+        "correctChar": "B",
         "userChar": "",
-        "number": 10
+        "number": 8
       },
       {
         "id": "1-1",
         "row": 1,
         "col": 1,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "A",
         "userChar": ""
       },
       {
@@ -125,7 +123,7 @@
         "row": 1,
         "col": 2,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "G",
         "userChar": ""
       },
       {
@@ -141,24 +139,27 @@
         "row": 1,
         "col": 4,
         "isBlack": false,
-        "correctChar": "E",
-        "userChar": ""
+        "correctChar": "A",
+        "userChar": "",
+        "number": 9
       },
       {
         "id": "1-5",
         "row": 1,
         "col": 5,
         "isBlack": false,
-        "correctChar": "L",
-        "userChar": ""
+        "correctChar": "C",
+        "userChar": "",
+        "number": 10
       },
       {
         "id": "1-6",
         "row": 1,
         "col": 6,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 11
       },
       {
         "id": "1-7",
@@ -166,15 +167,14 @@
         "col": 7,
         "isBlack": false,
         "correctChar": "U",
-        "userChar": "",
-        "number": 11
+        "userChar": ""
       },
       {
         "id": "1-8",
         "row": 1,
         "col": 8,
         "isBlack": false,
-        "correctChar": "S",
+        "correctChar": "D",
         "userChar": ""
       },
       {
@@ -200,7 +200,7 @@
         "row": 2,
         "col": 0,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "A",
         "userChar": "",
         "number": 12
       },
@@ -209,7 +209,7 @@
         "row": 2,
         "col": 1,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -217,7 +217,7 @@
         "row": 2,
         "col": 2,
         "isBlack": false,
-        "correctChar": "W",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -225,7 +225,7 @@
         "row": 2,
         "col": 3,
         "isBlack": false,
-        "correctChar": "S",
+        "correctChar": "O",
         "userChar": ""
       },
       {
@@ -233,7 +233,7 @@
         "row": 2,
         "col": 4,
         "isBlack": false,
-        "correctChar": "L",
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -241,7 +241,7 @@
         "row": 2,
         "col": 5,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "A",
         "userChar": ""
       },
       {
@@ -250,15 +250,14 @@
         "col": 6,
         "isBlack": false,
         "correctChar": "T",
-        "userChar": "",
-        "number": 13
+        "userChar": ""
       },
       {
         "id": "2-7",
         "row": 2,
         "col": 7,
         "isBlack": false,
-        "correctChar": "T",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -266,7 +265,7 @@
         "row": 2,
         "col": 8,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -274,16 +273,17 @@
         "row": 2,
         "col": 9,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "C",
         "userChar": ""
       },
       {
         "id": "2-10",
         "row": 2,
         "col": 10,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 13
       }
     ],
     [
@@ -292,7 +292,7 @@
         "row": 3,
         "col": 0,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "T",
         "userChar": "",
         "number": 14
       },
@@ -301,7 +301,7 @@
         "row": 3,
         "col": 1,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "E",
         "userChar": ""
       },
       {
@@ -309,7 +309,7 @@
         "row": 3,
         "col": 2,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "E",
         "userChar": ""
       },
       {
@@ -324,33 +324,33 @@
         "id": "3-4",
         "row": 3,
         "col": 4,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "S",
+        "userChar": "",
+        "number": 15
       },
       {
         "id": "3-5",
         "row": 3,
         "col": 5,
         "isBlack": false,
-        "correctChar": "A",
-        "userChar": "",
-        "number": 15
+        "correctChar": "N",
+        "userChar": ""
       },
       {
         "id": "3-6",
         "row": 3,
         "col": 6,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "A",
         "userChar": ""
       },
       {
         "id": "3-7",
         "row": 3,
         "col": 7,
-        "isBlack": false,
-        "correctChar": "O",
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       },
       {
@@ -358,15 +358,16 @@
         "row": 3,
         "col": 8,
         "isBlack": false,
-        "correctChar": "N",
-        "userChar": ""
+        "correctChar": "O",
+        "userChar": "",
+        "number": 16
       },
       {
         "id": "3-9",
         "row": 3,
         "col": 9,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "O",
         "userChar": ""
       },
       {
@@ -374,9 +375,8 @@
         "row": 3,
         "col": 10,
         "isBlack": false,
-        "correctChar": "E",
-        "userChar": "",
-        "number": 16
+        "correctChar": "I",
+        "userChar": ""
       }
     ],
     [
@@ -392,49 +392,51 @@
         "id": "4-1",
         "row": 4,
         "col": 1,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "4-2",
-        "row": 4,
-        "col": 2,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "4-3",
-        "row": 4,
-        "col": 3,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "4-4",
-        "row": 4,
-        "col": 4,
         "isBlack": false,
         "correctChar": "S",
         "userChar": "",
         "number": 17
       },
       {
+        "id": "4-2",
+        "row": 4,
+        "col": 2,
+        "isBlack": false,
+        "correctChar": "T",
+        "userChar": ""
+      },
+      {
+        "id": "4-3",
+        "row": 4,
+        "col": 3,
+        "isBlack": false,
+        "correctChar": "P",
+        "userChar": "",
+        "number": 18
+      },
+      {
+        "id": "4-4",
+        "row": 4,
+        "col": 4,
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
+      },
+      {
         "id": "4-5",
         "row": 4,
         "col": 5,
         "isBlack": false,
-        "correctChar": "T",
-        "userChar": ""
+        "correctChar": "C",
+        "userChar": "",
+        "number": 19
       },
       {
         "id": "4-6",
         "row": 4,
         "col": 6,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -442,15 +444,16 @@
         "row": 4,
         "col": 7,
         "isBlack": false,
-        "correctChar": "R",
-        "userChar": ""
+        "correctChar": "E",
+        "userChar": "",
+        "number": 20
       },
       {
         "id": "4-8",
         "row": 4,
         "col": 8,
         "isBlack": false,
-        "correctChar": "T",
+        "correctChar": "S",
         "userChar": ""
       },
       {
@@ -458,7 +461,7 @@
         "row": 4,
         "col": 9,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "P",
         "userChar": ""
       },
       {
@@ -466,7 +469,7 @@
         "row": 4,
         "col": 10,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "E",
         "userChar": ""
       }
     ],
@@ -475,60 +478,57 @@
         "id": "5-0",
         "row": 5,
         "col": 0,
-        "isBlack": false,
-        "correctChar": "P",
-        "userChar": "",
-        "number": 18
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "5-1",
         "row": 5,
         "col": 1,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "S",
         "userChar": "",
-        "number": 19
+        "number": 21
       },
       {
         "id": "5-2",
         "row": 5,
         "col": 2,
         "isBlack": false,
-        "correctChar": "I",
-        "userChar": "",
-        "number": 20
+        "correctChar": "O",
+        "userChar": ""
       },
       {
         "id": "5-3",
         "row": 5,
         "col": 3,
         "isBlack": false,
-        "correctChar": "G",
-        "userChar": "",
-        "number": 21
+        "correctChar": "I",
+        "userChar": ""
       },
       {
         "id": "5-4",
         "row": 5,
         "col": 4,
-        "isBlack": false,
-        "correctChar": "I",
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       },
       {
         "id": "5-5",
         "row": 5,
         "col": 5,
-        "isBlack": false,
-        "correctChar": "O",
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       },
       {
         "id": "5-6",
         "row": 5,
         "col": 6,
-        "isBlack": false,
-        "correctChar": "N",
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       },
       {
@@ -536,15 +536,16 @@
         "row": 5,
         "col": 7,
         "isBlack": false,
-        "correctChar": "I",
-        "userChar": ""
+        "correctChar": "L",
+        "userChar": "",
+        "number": 22
       },
       {
         "id": "5-8",
         "row": 5,
         "col": 8,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "A",
         "userChar": ""
       },
       {
@@ -552,15 +553,15 @@
         "row": 5,
         "col": 9,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "O",
         "userChar": ""
       },
       {
         "id": "5-10",
         "row": 5,
         "col": 10,
-        "isBlack": false,
-        "correctChar": "A",
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       }
     ],
@@ -570,9 +571,9 @@
         "row": 6,
         "col": 0,
         "isBlack": false,
-        "correctChar": "C",
+        "correctChar": "T",
         "userChar": "",
-        "number": 22
+        "number": 23
       },
       {
         "id": "6-1",
@@ -595,7 +596,7 @@
         "row": 6,
         "col": 3,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "U",
         "userChar": ""
       },
       {
@@ -603,47 +604,50 @@
         "row": 6,
         "col": 4,
         "isBlack": false,
-        "correctChar": "A",
-        "userChar": ""
+        "correctChar": "N",
+        "userChar": "",
+        "number": 24
       },
       {
         "id": "6-5",
         "row": 6,
         "col": 5,
         "isBlack": false,
-        "correctChar": "R",
-        "userChar": ""
+        "correctChar": "O",
+        "userChar": "",
+        "number": 25
       },
       {
         "id": "6-6",
         "row": 6,
         "col": 6,
-        "isBlack": false,
-        "correctChar": "I",
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       },
       {
         "id": "6-7",
         "row": 6,
         "col": 7,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": "",
+        "number": 26
       },
       {
         "id": "6-8",
         "row": 6,
         "col": 8,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "M",
         "userChar": ""
       },
       {
         "id": "6-9",
         "row": 6,
         "col": 9,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -661,16 +665,16 @@
         "row": 7,
         "col": 0,
         "isBlack": false,
-        "correctChar": "S",
+        "correctChar": "O",
         "userChar": "",
-        "number": 23
+        "number": 27
       },
       {
         "id": "7-1",
         "row": 7,
         "col": 1,
         "isBlack": false,
-        "correctChar": "P",
+        "correctChar": "L",
         "userChar": ""
       },
       {
@@ -678,15 +682,15 @@
         "row": 7,
         "col": 2,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "A",
         "userChar": ""
       },
       {
         "id": "7-3",
         "row": 7,
         "col": 3,
-        "isBlack": false,
-        "correctChar": "O",
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       },
       {
@@ -694,24 +698,26 @@
         "row": 7,
         "col": 4,
         "isBlack": false,
-        "correctChar": "N",
-        "userChar": ""
+        "correctChar": "I",
+        "userChar": "",
+        "number": 28
       },
       {
         "id": "7-5",
         "row": 7,
         "col": 5,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "P",
         "userChar": ""
       },
       {
         "id": "7-6",
         "row": 7,
         "col": 6,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 29
       },
       {
         "id": "7-7",
@@ -726,27 +732,26 @@
         "row": 7,
         "col": 8,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "E",
         "userChar": "",
-        "number": 24
+        "number": 30
       },
       {
         "id": "7-9",
         "row": 7,
         "col": 9,
         "isBlack": false,
-        "correctChar": "F",
-        "userChar": "",
-        "number": 25
+        "correctChar": "A",
+        "userChar": ""
       },
       {
         "id": "7-10",
         "row": 7,
         "col": 10,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "T",
         "userChar": "",
-        "number": 26
+        "number": 31
       }
     ],
     [
@@ -754,25 +759,25 @@
         "id": "8-0",
         "row": 8,
         "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "P",
+        "userChar": "",
+        "number": 32
       },
       {
         "id": "8-1",
         "row": 8,
         "col": 1,
         "isBlack": false,
-        "correctChar": "P",
-        "userChar": "",
-        "number": 27
+        "correctChar": "A",
+        "userChar": ""
       },
       {
         "id": "8-2",
         "row": 8,
         "col": 2,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -780,15 +785,16 @@
         "row": 8,
         "col": 3,
         "isBlack": false,
-        "correctChar": "R",
-        "userChar": ""
+        "correctChar": "T",
+        "userChar": "",
+        "number": 33
       },
       {
         "id": "8-4",
         "row": 8,
         "col": 4,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "O",
         "userChar": ""
       },
       {
@@ -796,7 +802,7 @@
         "row": 8,
         "col": 5,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "R",
         "userChar": ""
       },
       {
@@ -804,25 +810,24 @@
         "row": 8,
         "col": 6,
         "isBlack": false,
-        "correctChar": "T",
-        "userChar": "",
-        "number": 28
+        "correctChar": "I",
+        "userChar": ""
       },
       {
         "id": "8-7",
         "row": 8,
         "col": 7,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "E",
         "userChar": "",
-        "number": 29
+        "number": 34
       },
       {
         "id": "8-8",
         "row": 8,
         "col": 8,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "N",
         "userChar": ""
       },
       {
@@ -830,7 +835,7 @@
         "row": 8,
         "col": 9,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -838,7 +843,7 @@
         "row": 8,
         "col": 10,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "I",
         "userChar": ""
       }
     ],
@@ -856,16 +861,16 @@
         "row": 9,
         "col": 1,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "A",
         "userChar": "",
-        "number": 30
+        "number": 35
       },
       {
         "id": "9-2",
         "row": 9,
         "col": 2,
         "isBlack": false,
-        "correctChar": "D",
+        "correctChar": "S",
         "userChar": ""
       },
       {
@@ -873,15 +878,15 @@
         "row": 9,
         "col": 3,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "T",
         "userChar": ""
       },
       {
         "id": "9-4",
         "row": 9,
         "col": 4,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -889,16 +894,15 @@
         "row": 9,
         "col": 5,
         "isBlack": false,
-        "correctChar": "T",
-        "userChar": "",
-        "number": 31
+        "correctChar": "A",
+        "userChar": ""
       },
       {
         "id": "9-6",
         "row": 9,
         "col": 6,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "N",
         "userChar": ""
       },
       {
@@ -906,7 +910,7 @@
         "row": 9,
         "col": 7,
         "isBlack": false,
-        "correctChar": "M",
+        "correctChar": "A",
         "userChar": ""
       },
       {
@@ -922,7 +926,7 @@
         "row": 9,
         "col": 9,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "T",
         "userChar": ""
       },
       {
@@ -930,7 +934,7 @@
         "row": 9,
         "col": 10,
         "isBlack": false,
-        "correctChar": "M",
+        "correctChar": "E",
         "userChar": ""
       }
     ],
@@ -948,16 +952,16 @@
         "row": 10,
         "col": 1,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "M",
         "userChar": "",
-        "number": 32
+        "number": 36
       },
       {
         "id": "10-2",
         "row": 10,
         "col": 2,
         "isBlack": false,
-        "correctChar": "E",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -965,7 +969,7 @@
         "row": 10,
         "col": 3,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "L",
         "userChar": ""
       },
       {
@@ -980,17 +984,16 @@
         "id": "10-5",
         "row": 10,
         "col": 5,
-        "isBlack": false,
-        "correctChar": "A",
-        "userChar": "",
-        "number": 33
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "10-6",
         "row": 10,
         "col": 6,
-        "isBlack": false,
-        "correctChar": "S",
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       },
       {
@@ -998,15 +1001,16 @@
         "row": 10,
         "col": 7,
         "isBlack": false,
-        "correctChar": "S",
-        "userChar": ""
+        "correctChar": "N",
+        "userChar": "",
+        "number": 37
       },
       {
         "id": "10-8",
         "row": 10,
         "col": 8,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "E",
         "userChar": ""
       },
       {
@@ -1014,7 +1018,7 @@
         "row": 10,
         "col": 9,
         "isBlack": false,
-        "correctChar": "R",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -1022,353 +1026,371 @@
         "row": 10,
         "col": 10,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "L",
         "userChar": ""
       }
     ]
   ],
   "clues": [
     {
-      "id": "1f4678f0-2ac2-418d-a14e-8c0ce16813e8",
+      "id": "6396cbf5-8fba-422e-ba3a-54fab0443955",
       "number": 1,
       "direction": "across",
-      "text": "Vi nacque Democrito",
-      "startRow": 0,
-      "startCol": 0,
-      "length": 6
-    },
-    {
-      "id": "774956b8-eff3-4992-bcea-a26fa799330f",
-      "number": 1,
-      "direction": "down",
-      "text": "Altro nome degli ontani",
+      "text": "La voce narrante del Nome della rosa",
       "startRow": 0,
       "startCol": 0,
       "length": 4
     },
     {
-      "id": "0428b1f8-e8bf-438b-93d1-0ab425e48ad9",
+      "id": "f9e757c7-bca0-4fb2-8db0-831c033afd58",
+      "number": 1,
+      "direction": "down",
+      "text": "Prima di \"jour\" è un paralume",
+      "startRow": 0,
+      "startCol": 0,
+      "length": 4
+    },
+    {
+      "id": "4f4c5ba0-cfa0-4993-8bf9-20ad58cf134a",
       "number": 2,
       "direction": "down",
-      "text": "Lo dice un monsieur annuendo",
+      "text": "Fu capitale della Tanzania",
       "startRow": 0,
       "startCol": 1,
-      "length": 4
+      "length": 11
     },
     {
-      "id": "c0a76121-90a1-4040-a9c1-a7227cee6e6f",
+      "id": "e0d001cd-3b89-4ad7-bcc8-54c33044143d",
       "number": 3,
       "direction": "down",
-      "text": "Il contrario di up",
+      "text": "Ridursi in frantumi",
       "startRow": 0,
       "startCol": 2,
-      "length": 4
+      "length": 11
     },
     {
-      "id": "9b91706f-41cd-495b-82b3-27e5eb75d888",
+      "id": "3b6c721c-b059-495e-aa75-8453bcf559f0",
       "number": 4,
       "direction": "down",
-      "text": "Ente Naz.le Sordomuti",
+      "text": "Opposto a ESE",
       "startRow": 0,
       "startCol": 3,
       "length": 3
     },
     {
-      "id": "8c08e7e9-aed0-4a5f-8b7f-ea5bccc1515a",
+      "id": "91008294-f5a4-45f8-940c-f2492314947d",
+      "number": 5,
+      "direction": "across",
+      "text": "Dopo",
+      "startRow": 0,
+      "startCol": 7,
+      "length": 3
+    },
+    {
+      "id": "9e6fcceb-6ad1-4004-b712-433443cace40",
       "number": 5,
       "direction": "down",
-      "text": "Relativo (abbr.)",
+      "text": "È nostro in Inghilterra",
       "startRow": 0,
-      "startCol": 4,
+      "startCol": 7,
       "length": 3
     },
     {
-      "id": "f5427a45-2262-4bfb-87c4-42ece7ad6c89",
+      "id": "66e32a57-21f9-4410-be21-2333d715f142",
       "number": 6,
       "direction": "down",
-      "text": "Incertezza, rischio",
+      "text": "In modo astioso",
       "startRow": 0,
-      "startCol": 5,
+      "startCol": 8,
       "length": 11
     },
     {
-      "id": "666c34e3-ee45-4291-a5e2-266586d764e1",
-      "number": 7,
-      "direction": "across",
-      "text": "Nota fabbrica elettrotecnica tedesca",
-      "startRow": 0,
-      "startCol": 7,
-      "length": 3
-    },
-    {
-      "id": "f6796c20-a3b8-48e3-b1fb-11f6feb66365",
+      "id": "d4f1661b-f721-499a-83d8-15e6eaa5d1b7",
       "number": 7,
       "direction": "down",
-      "text": "Incassano i loro diitti",
+      "text": "Il vero nome di un Sansovino",
       "startRow": 0,
-      "startCol": 7,
-      "length": 6
+      "startCol": 9,
+      "length": 11
     },
     {
-      "id": "5a7de9c7-9ebb-4610-95c6-33744f28d796",
+      "id": "62c08c5c-d0c3-40a6-91ab-2d2372b4f2b2",
       "number": 8,
-      "direction": "down",
-      "text": "Non gravato da tasse",
-      "startRow": 0,
-      "startCol": 8,
-      "length": 6
+      "direction": "across",
+      "text": "Un intingolo piemontese",
+      "startRow": 1,
+      "startCol": 0,
+      "length": 10
     },
     {
-      "id": "07813354-4aec-4f7d-b021-a89698b380dc",
+      "id": "27126038-d4fb-4388-bf58-30ced05656f1",
       "number": 9,
       "direction": "down",
-      "text": "Erroll, celebre pianista jazz",
-      "startRow": 0,
-      "startCol": 9,
-      "length": 6
-    },
-    {
-      "id": "4fdacb6b-a04b-42f0-9a88-d7da5b57bfa4",
-      "number": 10,
-      "direction": "across",
-      "text": "Il nome di Jospin",
+      "text": "La sigla dell'aterosclerosi",
       "startRow": 1,
-      "startCol": 0,
-      "length": 6
-    },
-    {
-      "id": "12b79376-ee75-4d2a-b948-cdf49f61a765",
-      "number": 11,
-      "direction": "across",
-      "text": "Gli States",
-      "startRow": 1,
-      "startCol": 7,
+      "startCol": 4,
       "length": 3
     },
     {
-      "id": "760430c5-df42-4afc-97d5-834a1444c504",
+      "id": "f666a597-6a77-45ea-8dcd-5d89e455b94e",
+      "number": 10,
+      "direction": "down",
+      "text": "Un tasto",
+      "startRow": 1,
+      "startCol": 5,
+      "length": 4
+    },
+    {
+      "id": "26f73c6b-0250-4739-8130-7f1d3b4f6fde",
+      "number": 11,
+      "direction": "down",
+      "text": "Dio persiano del fuoco",
+      "startRow": 1,
+      "startCol": 6,
+      "length": 4
+    },
+    {
+      "id": "ae262d8e-d031-45f0-9408-dc3492dfe552",
       "number": 12,
       "direction": "across",
-      "text": "Informa gli iscritti",
+      "text": "Macchina per levigare pavimenti mediante piastre abrasive",
       "startRow": 2,
-      "startCol": 0,
-      "length": 10
-    },
-    {
-      "id": "f32b54ff-5238-44c3-987d-5a44da92a3de",
-      "number": 13,
-      "direction": "down",
-      "text": "Fra Barletta e Bisceglie",
-      "startRow": 2,
-      "startCol": 6,
-      "length": 5
-    },
-    {
-      "id": "c9f700f4-5171-45c4-9cea-109f10cfa876",
-      "number": 14,
-      "direction": "across",
-      "text": "Attraversa il Tirolo",
-      "startRow": 3,
-      "startCol": 0,
-      "length": 3
-    },
-    {
-      "id": "fc3e7e9e-8b5a-4393-b720-197270b21a08",
-      "number": 15,
-      "direction": "across",
-      "text": "Un biblico fratello",
-      "startRow": 3,
-      "startCol": 5,
-      "length": 6
-    },
-    {
-      "id": "2e2f869e-1956-470a-a121-a33ee51929e6",
-      "number": 16,
-      "direction": "down",
-      "text": "Una suddivisione geologica",
-      "startRow": 3,
-      "startCol": 10,
-      "length": 3
-    },
-    {
-      "id": "41b4dbec-62e7-475c-bdf4-7ba5b27923aa",
-      "number": 17,
-      "direction": "across",
-      "text": "Dà il segnale d'inizio della gara",
-      "startRow": 4,
-      "startCol": 4,
-      "length": 7
-    },
-    {
-      "id": "92f8432d-79bb-4835-9130-c025c77aa566",
-      "number": 17,
-      "direction": "down",
-      "text": "L'Alessandro nel cast di Benvenuti al Nord",
-      "startRow": 4,
-      "startCol": 4,
-      "length": 5
-    },
-    {
-      "id": "f5659abf-426f-4e8c-ae2c-0bdd3f6b5b25",
-      "number": 18,
-      "direction": "across",
-      "text": "Un' inquilina del carcere",
-      "startRow": 5,
       "startCol": 0,
       "length": 11
     },
     {
-      "id": "94a45917-5dff-4ad9-a19d-27f5767dbb62",
+      "id": "f612eda5-d96a-4a89-9c19-db45f07797c9",
+      "number": 13,
+      "direction": "down",
+      "text": "Programma per l'Energia Intelligente in Europa (sigla)",
+      "startRow": 2,
+      "startCol": 10,
+      "length": 3
+    },
+    {
+      "id": "002388f9-8417-4fa3-a1e0-51c325c342d4",
+      "number": 14,
+      "direction": "across",
+      "text": "Le rose più pallide",
+      "startRow": 3,
+      "startCol": 0,
+      "length": 3
+    },
+    {
+      "id": "3a9cee81-4910-44bc-a513-4b2926af388d",
+      "number": 15,
+      "direction": "across",
+      "text": "Sistema nervoso autonomo",
+      "startRow": 3,
+      "startCol": 4,
+      "length": 3
+    },
+    {
+      "id": "39e5c11c-efa2-4269-b6d3-f78cd907be67",
+      "number": 16,
+      "direction": "across",
+      "text": "Un millesimo",
+      "startRow": 3,
+      "startCol": 8,
+      "length": 3
+    },
+    {
+      "id": "12586f43-3fdf-4a25-9936-c0fd1bbe13a0",
+      "number": 17,
+      "direction": "across",
+      "text": "Senza Troppo Pretendere",
+      "startRow": 4,
+      "startCol": 1,
+      "length": 3
+    },
+    {
+      "id": "40c61280-4003-402a-a451-911b6b8d8aad",
       "number": 18,
       "direction": "down",
-      "text": "Process Control System (sigla)",
-      "startRow": 5,
-      "startCol": 0,
+      "text": "Il segno positivo",
+      "startRow": 4,
+      "startCol": 3,
       "length": 3
     },
     {
-      "id": "cc0b359c-21b1-4d69-94b0-f581bbd39049",
+      "id": "d21b37c7-c235-4a0c-95f4-332a5c26e38c",
       "number": 19,
-      "direction": "down",
-      "text": "Un cantante che... spara parole a raffica",
-      "startRow": 5,
-      "startCol": 1,
+      "direction": "across",
+      "text": "Le pieghettature della gonna",
+      "startRow": 4,
+      "startCol": 5,
       "length": 6
     },
     {
-      "id": "cd7ff17e-30be-4cce-8491-b65842bb9cf5",
+      "id": "b3cf42ec-06b2-4276-98ea-849cfddd13ea",
       "number": 20,
       "direction": "down",
-      "text": "Un capolavoro di Omero",
-      "startRow": 5,
-      "startCol": 2,
-      "length": 6
+      "text": "Antica città della Laconia",
+      "startRow": 4,
+      "startCol": 7,
+      "length": 3
     },
     {
-      "id": "a635e765-c0a1-4b13-aac2-93f48764a045",
+      "id": "80a97343-c5e0-47e1-a74f-5973a95dd9dc",
       "number": 21,
-      "direction": "down",
-      "text": "Muoiono a mezzanotte",
+      "direction": "across",
+      "text": "Il sé francese",
       "startRow": 5,
-      "startCol": 3,
-      "length": 6
+      "startCol": 1,
+      "length": 3
     },
     {
-      "id": "c00b4950-5aeb-4766-b5a0-5bcc7dece6bf",
+      "id": "d8e75d70-44ea-4649-997b-50c5500cdce1",
       "number": 22,
       "direction": "across",
-      "text": "Il cognome del Veronese",
-      "startRow": 6,
-      "startCol": 0,
-      "length": 7
+      "text": "Fiume calabro",
+      "startRow": 5,
+      "startCol": 7,
+      "length": 3
     },
     {
-      "id": "8345b86c-f9d9-46bf-a56a-450d9dbf9356",
+      "id": "1d96c108-e55e-4764-910a-2b778f560b78",
       "number": 23,
       "direction": "across",
-      "text": "Delatori... di grossa taglia",
-      "startRow": 7,
+      "text": "Non tutti",
+      "startRow": 6,
       "startCol": 0,
       "length": 6
     },
     {
-      "id": "55b836f2-7cda-4e32-8e7f-808635f88f37",
+      "id": "8d0cd8de-0dfa-4af1-94ba-8d21c7286dff",
+      "number": 23,
+      "direction": "down",
+      "text": "Il massimo possibile",
+      "startRow": 6,
+      "startCol": 0,
+      "length": 3
+    },
+    {
+      "id": "28d10cd8-7f71-4d02-9122-37e4f30418ff",
       "number": 24,
+      "direction": "down",
+      "text": "Li costruiscono gli uccelli",
+      "startRow": 6,
+      "startCol": 4,
+      "length": 4
+    },
+    {
+      "id": "5cc819da-540d-47b2-bb66-8e10a86a5ba7",
+      "number": 25,
+      "direction": "down",
+      "text": "Un vecchio... lavoro",
+      "startRow": 6,
+      "startCol": 5,
+      "length": 4
+    },
+    {
+      "id": "94353dc5-e986-494e-846b-0a0c0184eb5d",
+      "number": 26,
       "direction": "across",
-      "text": "Africa",
+      "text": "Organizzazione Mondiale del Turismo",
+      "startRow": 6,
+      "startCol": 7,
+      "length": 3
+    },
+    {
+      "id": "01f3a050-2242-4f1d-b4f7-76f31331d8f6",
+      "number": 27,
+      "direction": "across",
+      "text": "Un'esclamazione autoritaria",
+      "startRow": 7,
+      "startCol": 0,
+      "length": 3
+    },
+    {
+      "id": "7989d711-db06-4d9e-a0a4-991d08cf6fbd",
+      "number": 28,
+      "direction": "across",
+      "text": "Indirizzo di Posta Elettronica (abbr.)",
+      "startRow": 7,
+      "startCol": 4,
+      "length": 3
+    },
+    {
+      "id": "de1e2668-21cd-4a60-8d50-09c011c02837",
+      "number": 29,
+      "direction": "down",
+      "text": "Un... detto alla tedesca",
+      "startRow": 7,
+      "startCol": 6,
+      "length": 3
+    },
+    {
+      "id": "d566671c-7fdf-4c87-bf15-52031c1f79f4",
+      "number": 30,
+      "direction": "across",
+      "text": "Sigla della Tanzania",
       "startRow": 7,
       "startCol": 8,
       "length": 3
     },
     {
-      "id": "7554f9b1-1980-46aa-9e78-9ba4f90ec443",
-      "number": 24,
+      "id": "6ed5f33f-8185-4e55-906b-465d239e0d18",
+      "number": 31,
       "direction": "down",
-      "text": "Si abbracciano le belle",
-      "startRow": 7,
-      "startCol": 8,
-      "length": 4
-    },
-    {
-      "id": "a26d7e78-b335-4d40-b1ec-41f1388dc69f",
-      "number": 25,
-      "direction": "down",
-      "text": "__ di mascalzone = furfante",
-      "startRow": 7,
-      "startCol": 9,
-      "length": 4
-    },
-    {
-      "id": "3d8ec7ca-b817-4f68-a070-35c505f8e967",
-      "number": 26,
-      "direction": "down",
-      "text": "Un'appendice dell'albero",
+      "text": "Centro del Senegal",
       "startRow": 7,
       "startCol": 10,
       "length": 4
     },
     {
-      "id": "10986527-1112-4ec3-9ec7-5bcd088e9205",
-      "number": 27,
+      "id": "13ef7055-7dc2-4c57-8194-49c080fcf0cf",
+      "number": 32,
       "direction": "across",
-      "text": "Erba medicinale rampicante simile all' ortica",
+      "text": "Stanno mettendo alla luce",
       "startRow": 8,
-      "startCol": 1,
-      "length": 10
+      "startCol": 0,
+      "length": 11
     },
     {
-      "id": "4676f402-6bda-4dd9-a3fd-e0a1bf2a4d97",
-      "number": 28,
+      "id": "3da9b5c9-5055-4b83-8211-a7635ceccdd9",
+      "number": 33,
       "direction": "down",
-      "text": "Terapia Ormonale Sostitutiva",
+      "text": "Una sigla di circuiti logici",
       "startRow": 8,
-      "startCol": 6,
+      "startCol": 3,
       "length": 3
     },
     {
-      "id": "ce396f31-e149-46d4-b51d-66207b41bc30",
-      "number": 29,
+      "id": "09dc91a6-3410-4b49-a508-20465105bd5e",
+      "number": 34,
       "direction": "down",
-      "text": "Agenzia Municipalizzata Servizi (sigla)",
+      "text": "La codifica a barre dell'European Artide Number (sigla).",
       "startRow": 8,
       "startCol": 7,
       "length": 3
     },
     {
-      "id": "92d9efa1-063c-41c3-9e34-c92ab6cd0e0c",
-      "number": 30,
+      "id": "f1d42b36-b006-4356-bf53-79458f7dac88",
+      "number": 35,
       "direction": "across",
-      "text": "Iniziali di De Nicola",
+      "text": "Il figlio di Ettore e Andromaca",
       "startRow": 9,
       "startCol": 1,
-      "length": 3
+      "length": 10
     },
     {
-      "id": "41af395f-ac7a-4131-af04-649e51b02f97",
-      "number": 31,
+      "id": "3c1f6c80-1c1e-485c-85f5-1699898fb8ce",
+      "number": 36,
       "direction": "across",
-      "text": "Un elemento della batteria",
-      "startRow": 9,
-      "startCol": 5,
-      "length": 6
-    },
-    {
-      "id": "bc821454-6de0-454c-ab99-3fdc2069ae30",
-      "number": 32,
-      "direction": "across",
-      "text": "Sperano nella prescrizione",
+      "text": "1049 romani",
       "startRow": 10,
       "startCol": 1,
       "length": 3
     },
     {
-      "id": "ef5fff95-a5d3-40fe-a4e5-c9f5458e78b6",
-      "number": 33,
+      "id": "ca2507bb-7e5c-4fa1-87cd-540b7dc2d4be",
+      "number": 37,
       "direction": "across",
-      "text": "Lo era Sardanapalo",
+      "text": "Armstrong sulla Luna",
       "startRow": 10,
-      "startCol": 5,
-      "length": 6
+      "startCol": 7,
+      "length": 4
     }
   ]
 }

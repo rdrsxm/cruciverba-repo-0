@@ -1,7 +1,7 @@
 {
-  "id": "5e30a25f-45df-442f-a158-e649be0a7ba2",
-  "width": 11,
-  "height": 11,
+  "id": "4a6727f0-f289-4000-b638-e4ef0ac47828",
+  "width": 6,
+  "height": 6,
   "cells": [
     [
       {
@@ -16,82 +16,41 @@
         "id": "0-1",
         "row": 0,
         "col": 1,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "A",
+        "userChar": "",
+        "number": 1
       },
       {
         "id": "0-2",
         "row": 0,
         "col": 2,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "D",
+        "userChar": "",
+        "number": 2
       },
       {
         "id": "0-3",
         "row": 0,
         "col": 3,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "U",
+        "userChar": "",
+        "number": 3
       },
       {
         "id": "0-4",
         "row": 0,
         "col": 4,
-        "isBlack": false,
-        "correctChar": "S",
-        "userChar": "",
-        "number": 1
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "0-5",
         "row": 0,
         "col": 5,
-        "isBlack": false,
-        "correctChar": "P",
-        "userChar": "",
-        "number": 2
-      },
-      {
-        "id": "0-6",
-        "row": 0,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": "",
-        "number": 3
-      },
-      {
-        "id": "0-7",
-        "row": 0,
-        "col": 7,
-        "isBlack": false,
-        "correctChar": "T",
-        "userChar": "",
-        "number": 4
-      },
-      {
-        "id": "0-8",
-        "row": 0,
-        "col": 8,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "0-9",
-        "row": 0,
-        "col": 9,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "0-10",
-        "row": 0,
-        "col": 10,
         "isBlack": true,
         "correctChar": null,
         "userChar": ""
@@ -102,24 +61,25 @@
         "id": "1-0",
         "row": 1,
         "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "O",
+        "userChar": "",
+        "number": 4
       },
       {
         "id": "1-1",
         "row": 1,
         "col": 1,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "D",
         "userChar": ""
       },
       {
         "id": "1-2",
         "row": 1,
         "col": 2,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -128,64 +88,25 @@
         "col": 3,
         "isBlack": false,
         "correctChar": "L",
-        "userChar": "",
-        "number": 5
+        "userChar": ""
       },
       {
         "id": "1-4",
         "row": 1,
         "col": 4,
         "isBlack": false,
-        "correctChar": "I",
-        "userChar": ""
+        "correctChar": "O",
+        "userChar": "",
+        "number": 5
       },
       {
         "id": "1-5",
         "row": 1,
         "col": 5,
         "isBlack": false,
-        "correctChar": "E",
-        "userChar": ""
-      },
-      {
-        "id": "1-6",
-        "row": 1,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "T",
-        "userChar": ""
-      },
-      {
-        "id": "1-7",
-        "row": 1,
-        "col": 7,
-        "isBlack": false,
-        "correctChar": "I",
-        "userChar": ""
-      },
-      {
-        "id": "1-8",
-        "row": 1,
-        "col": 8,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "1-9",
-        "row": 1,
-        "col": 9,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "1-10",
-        "row": 1,
-        "col": 10,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "correctChar": "N",
+        "userChar": "",
+        "number": 6
       }
     ],
     [
@@ -193,24 +114,25 @@
         "id": "2-0",
         "row": 2,
         "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "P",
+        "userChar": "",
+        "number": 7
       },
       {
         "id": "2-1",
         "row": 2,
         "col": 1,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "A",
         "userChar": ""
       },
       {
         "id": "2-2",
         "row": 2,
         "col": 2,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "N",
         "userChar": ""
       },
       {
@@ -218,16 +140,15 @@
         "row": 2,
         "col": 3,
         "isBlack": false,
-        "correctChar": "E",
-        "userChar": "",
-        "number": 6
+        "correctChar": "I",
+        "userChar": ""
       },
       {
         "id": "2-4",
         "row": 2,
         "col": 4,
         "isBlack": false,
-        "correctChar": "C",
+        "correctChar": "N",
         "userChar": ""
       },
       {
@@ -235,47 +156,7 @@
         "row": 2,
         "col": 5,
         "isBlack": false,
-        "correctChar": "R",
-        "userChar": ""
-      },
-      {
-        "id": "2-6",
-        "row": 2,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "A",
-        "userChar": ""
-      },
-      {
-        "id": "2-7",
-        "row": 2,
-        "col": 7,
-        "isBlack": false,
-        "correctChar": "N",
-        "userChar": ""
-      },
-      {
-        "id": "2-8",
-        "row": 2,
-        "col": 8,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "2-9",
-        "row": 2,
-        "col": 9,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "2-10",
-        "row": 2,
-        "col": 10,
-        "isBlack": true,
-        "correctChar": null,
+        "correctChar": "O",
         "userChar": ""
       }
     ],
@@ -284,24 +165,25 @@
         "id": "3-0",
         "row": 3,
         "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
+        "isBlack": false,
+        "correctChar": "E",
+        "userChar": "",
+        "number": 8
       },
       {
         "id": "3-1",
         "row": 3,
         "col": 1,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "R",
         "userChar": ""
       },
       {
         "id": "3-2",
         "row": 3,
         "col": 2,
-        "isBlack": true,
-        "correctChar": null,
+        "isBlack": false,
+        "correctChar": "A",
         "userChar": ""
       },
       {
@@ -309,16 +191,15 @@
         "row": 3,
         "col": 3,
         "isBlack": false,
-        "correctChar": "G",
-        "userChar": "",
-        "number": 7
+        "correctChar": "S",
+        "userChar": ""
       },
       {
         "id": "3-4",
         "row": 3,
         "col": 4,
         "isBlack": false,
-        "correctChar": "O",
+        "correctChar": "M",
         "userChar": ""
       },
       {
@@ -326,47 +207,7 @@
         "row": 3,
         "col": 5,
         "isBlack": false,
-        "correctChar": "L",
-        "userChar": ""
-      },
-      {
-        "id": "3-6",
-        "row": 3,
-        "col": 6,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "3-7",
-        "row": 3,
-        "col": 7,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "3-8",
-        "row": 3,
-        "col": 8,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "3-9",
-        "row": 3,
-        "col": 9,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "3-10",
-        "row": 3,
-        "col": 10,
-        "isBlack": true,
-        "correctChar": null,
+        "correctChar": "O",
         "userChar": ""
       }
     ],
@@ -376,34 +217,32 @@
         "row": 4,
         "col": 0,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "C",
         "userChar": "",
-        "number": 8
+        "number": 9
       },
       {
         "id": "4-1",
         "row": 4,
         "col": 1,
         "isBlack": false,
-        "correctChar": "C",
-        "userChar": "",
-        "number": 9
+        "correctChar": "E",
+        "userChar": ""
       },
       {
         "id": "4-2",
         "row": 4,
         "col": 2,
         "isBlack": false,
-        "correctChar": "C",
-        "userChar": "",
-        "number": 10
+        "correctChar": "N",
+        "userChar": ""
       },
       {
         "id": "4-3",
         "row": 4,
         "col": 3,
         "isBlack": false,
-        "correctChar": "A",
+        "correctChar": "S",
         "userChar": ""
       },
       {
@@ -411,7 +250,7 @@
         "row": 4,
         "col": 4,
         "isBlack": false,
-        "correctChar": "N",
+        "correctChar": "I",
         "userChar": ""
       },
       {
@@ -419,53 +258,8 @@
         "row": 4,
         "col": 5,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "S",
         "userChar": ""
-      },
-      {
-        "id": "4-6",
-        "row": 4,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "M",
-        "userChar": "",
-        "number": 11
-      },
-      {
-        "id": "4-7",
-        "row": 4,
-        "col": 7,
-        "isBlack": false,
-        "correctChar": "E",
-        "userChar": "",
-        "number": 12
-      },
-      {
-        "id": "4-8",
-        "row": 4,
-        "col": 8,
-        "isBlack": false,
-        "correctChar": "N",
-        "userChar": "",
-        "number": 13
-      },
-      {
-        "id": "4-9",
-        "row": 4,
-        "col": 9,
-        "isBlack": false,
-        "correctChar": "T",
-        "userChar": "",
-        "number": 14
-      },
-      {
-        "id": "4-10",
-        "row": 4,
-        "col": 10,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": "",
-        "number": 15
       }
     ],
     [
@@ -473,17 +267,16 @@
         "id": "5-0",
         "row": 5,
         "col": 0,
-        "isBlack": false,
-        "correctChar": "C",
-        "userChar": "",
-        "number": 16
+        "isBlack": true,
+        "correctChar": null,
+        "userChar": ""
       },
       {
         "id": "5-1",
         "row": 5,
         "col": 1,
-        "isBlack": false,
-        "correctChar": "R",
+        "isBlack": true,
+        "correctChar": null,
         "userChar": ""
       },
       {
@@ -491,15 +284,16 @@
         "row": 5,
         "col": 2,
         "isBlack": false,
-        "correctChar": "I",
-        "userChar": ""
+        "correctChar": "T",
+        "userChar": "",
+        "number": 10
       },
       {
         "id": "5-3",
         "row": 5,
         "col": 3,
         "isBlack": false,
-        "correctChar": "M",
+        "correctChar": "E",
         "userChar": ""
       },
       {
@@ -507,509 +301,13 @@
         "row": 5,
         "col": 4,
         "isBlack": false,
-        "correctChar": "I",
+        "correctChar": "C",
         "userChar": ""
       },
       {
         "id": "5-5",
         "row": 5,
         "col": 5,
-        "isBlack": false,
-        "correctChar": "N",
-        "userChar": ""
-      },
-      {
-        "id": "5-6",
-        "row": 5,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": ""
-      },
-      {
-        "id": "5-7",
-        "row": 5,
-        "col": 7,
-        "isBlack": false,
-        "correctChar": "L",
-        "userChar": ""
-      },
-      {
-        "id": "5-8",
-        "row": 5,
-        "col": 8,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": ""
-      },
-      {
-        "id": "5-9",
-        "row": 5,
-        "col": 9,
-        "isBlack": false,
-        "correctChar": "G",
-        "userChar": ""
-      },
-      {
-        "id": "5-10",
-        "row": 5,
-        "col": 10,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": ""
-      }
-    ],
-    [
-      {
-        "id": "6-0",
-        "row": 6,
-        "col": 0,
-        "isBlack": false,
-        "correctChar": "R",
-        "userChar": "",
-        "number": 17
-      },
-      {
-        "id": "6-1",
-        "row": 6,
-        "col": 1,
-        "isBlack": false,
-        "correctChar": "A",
-        "userChar": ""
-      },
-      {
-        "id": "6-2",
-        "row": 6,
-        "col": 2,
-        "isBlack": false,
-        "correctChar": "D",
-        "userChar": ""
-      },
-      {
-        "id": "6-3",
-        "row": 6,
-        "col": 3,
-        "isBlack": false,
-        "correctChar": "I",
-        "userChar": ""
-      },
-      {
-        "id": "6-4",
-        "row": 6,
-        "col": 4,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": ""
-      },
-      {
-        "id": "6-5",
-        "row": 6,
-        "col": 5,
-        "isBlack": false,
-        "correctChar": "A",
-        "userChar": ""
-      },
-      {
-        "id": "6-6",
-        "row": 6,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "T",
-        "userChar": ""
-      },
-      {
-        "id": "6-7",
-        "row": 6,
-        "col": 7,
-        "isBlack": false,
-        "correctChar": "T",
-        "userChar": ""
-      },
-      {
-        "id": "6-8",
-        "row": 6,
-        "col": 8,
-        "isBlack": false,
-        "correctChar": "I",
-        "userChar": ""
-      },
-      {
-        "id": "6-9",
-        "row": 6,
-        "col": 9,
-        "isBlack": false,
-        "correctChar": "V",
-        "userChar": ""
-      },
-      {
-        "id": "6-10",
-        "row": 6,
-        "col": 10,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": ""
-      }
-    ],
-    [
-      {
-        "id": "7-0",
-        "row": 7,
-        "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "7-1",
-        "row": 7,
-        "col": 1,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "7-2",
-        "row": 7,
-        "col": 2,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "7-3",
-        "row": 7,
-        "col": 3,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "7-4",
-        "row": 7,
-        "col": 4,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "7-5",
-        "row": 7,
-        "col": 5,
-        "isBlack": false,
-        "correctChar": "T",
-        "userChar": "",
-        "number": 18
-      },
-      {
-        "id": "7-6",
-        "row": 7,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": ""
-      },
-      {
-        "id": "7-7",
-        "row": 7,
-        "col": 7,
-        "isBlack": false,
-        "correctChar": "S",
-        "userChar": ""
-      },
-      {
-        "id": "7-8",
-        "row": 7,
-        "col": 8,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "7-9",
-        "row": 7,
-        "col": 9,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "7-10",
-        "row": 7,
-        "col": 10,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      }
-    ],
-    [
-      {
-        "id": "8-0",
-        "row": 8,
-        "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "8-1",
-        "row": 8,
-        "col": 1,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "8-2",
-        "row": 8,
-        "col": 2,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "8-3",
-        "row": 8,
-        "col": 3,
-        "isBlack": false,
-        "correctChar": "A",
-        "userChar": "",
-        "number": 19
-      },
-      {
-        "id": "8-4",
-        "row": 8,
-        "col": 4,
-        "isBlack": false,
-        "correctChar": "N",
-        "userChar": "",
-        "number": 20
-      },
-      {
-        "id": "8-5",
-        "row": 8,
-        "col": 5,
-        "isBlack": false,
-        "correctChar": "U",
-        "userChar": ""
-      },
-      {
-        "id": "8-6",
-        "row": 8,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "R",
-        "userChar": ""
-      },
-      {
-        "id": "8-7",
-        "row": 8,
-        "col": 7,
-        "isBlack": false,
-        "correctChar": "I",
-        "userChar": ""
-      },
-      {
-        "id": "8-8",
-        "row": 8,
-        "col": 8,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "8-9",
-        "row": 8,
-        "col": 9,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "8-10",
-        "row": 8,
-        "col": 10,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      }
-    ],
-    [
-      {
-        "id": "9-0",
-        "row": 9,
-        "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "9-1",
-        "row": 9,
-        "col": 1,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "9-2",
-        "row": 9,
-        "col": 2,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "9-3",
-        "row": 9,
-        "col": 3,
-        "isBlack": false,
-        "correctChar": "L",
-        "userChar": "",
-        "number": 21
-      },
-      {
-        "id": "9-4",
-        "row": 9,
-        "col": 4,
-        "isBlack": false,
-        "correctChar": "O",
-        "userChar": ""
-      },
-      {
-        "id": "9-5",
-        "row": 9,
-        "col": 5,
-        "isBlack": false,
-        "correctChar": "R",
-        "userChar": ""
-      },
-      {
-        "id": "9-6",
-        "row": 9,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "I",
-        "userChar": ""
-      },
-      {
-        "id": "9-7",
-        "row": 9,
-        "col": 7,
-        "isBlack": false,
-        "correctChar": "N",
-        "userChar": ""
-      },
-      {
-        "id": "9-8",
-        "row": 9,
-        "col": 8,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "9-9",
-        "row": 9,
-        "col": 9,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "9-10",
-        "row": 9,
-        "col": 10,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      }
-    ],
-    [
-      {
-        "id": "10-0",
-        "row": 10,
-        "col": 0,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "10-1",
-        "row": 10,
-        "col": 1,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "10-2",
-        "row": 10,
-        "col": 2,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "10-3",
-        "row": 10,
-        "col": 3,
-        "isBlack": false,
-        "correctChar": "C",
-        "userChar": "",
-        "number": 22
-      },
-      {
-        "id": "10-4",
-        "row": 10,
-        "col": 4,
-        "isBlack": false,
-        "correctChar": "I",
-        "userChar": ""
-      },
-      {
-        "id": "10-5",
-        "row": 10,
-        "col": 5,
-        "isBlack": false,
-        "correctChar": "A",
-        "userChar": ""
-      },
-      {
-        "id": "10-6",
-        "row": 10,
-        "col": 6,
-        "isBlack": false,
-        "correctChar": "A",
-        "userChar": ""
-      },
-      {
-        "id": "10-7",
-        "row": 10,
-        "col": 7,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "10-8",
-        "row": 10,
-        "col": 8,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "10-9",
-        "row": 10,
-        "col": 9,
-        "isBlack": true,
-        "correctChar": null,
-        "userChar": ""
-      },
-      {
-        "id": "10-10",
-        "row": 10,
-        "col": 10,
         "isBlack": true,
         "correctChar": null,
         "userChar": ""
@@ -1018,238 +316,112 @@
   ],
   "clues": [
     {
-      "id": "7ff2eade-e096-4cd6-a8d3-0bed55c217eb",
+      "id": "f26ab6c0-d520-4eba-a922-cc20d6ac2608",
       "number": 1,
       "direction": "across",
-      "text": "Breve filmetto pubblicitario",
+      "text": "L' altro nome di Sade",
       "startRow": 0,
-      "startCol": 4,
-      "length": 4
-    },
-    {
-      "id": "b43fffae-2498-45f1-a5ca-4bd5ff9453bd",
-      "number": 1,
-      "direction": "down",
-      "text": "Infiorescenza di fico",
-      "startRow": 0,
-      "startCol": 4,
-      "length": 7
-    },
-    {
-      "id": "2fae98db-65e8-4845-86ad-beb5bcdac36b",
-      "number": 2,
-      "direction": "down",
-      "text": "Rivestimento di pareti o soffitti con tavole di legno",
-      "startRow": 0,
-      "startCol": 5,
-      "length": 11
-    },
-    {
-      "id": "15447d7e-a0b5-4c0a-a14b-4e1e024f807a",
-      "number": 3,
-      "direction": "down",
-      "text": "Fiume giapponese dell'isola di Honshu",
-      "startRow": 0,
-      "startCol": 6,
-      "length": 3
-    },
-    {
-      "id": "1e102d01-1ec9-43fa-a773-baf1baf0153f",
-      "number": 4,
-      "direction": "down",
-      "text": "... Cup in un film con Kevin Costner",
-      "startRow": 0,
-      "startCol": 7,
-      "length": 3
-    },
-    {
-      "id": "af90243c-8ff2-4107-83d9-243cd17081de",
-      "number": 5,
-      "direction": "across",
-      "text": "Soddisfatti, contenti",
-      "startRow": 1,
-      "startCol": 3,
-      "length": 5
-    },
-    {
-      "id": "9d0ea5af-2a75-4575-bba4-be279e8e47ca",
-      "number": 5,
-      "direction": "down",
-      "text": "Non li vuole lo scapolone",
-      "startRow": 1,
-      "startCol": 3,
-      "length": 6
-    },
-    {
-      "id": "11b017c6-627b-447e-b7fc-65dd0acb535e",
-      "number": 6,
-      "direction": "across",
-      "text": "Lo schermo...a Parigi",
-      "startRow": 2,
-      "startCol": 3,
-      "length": 5
-    },
-    {
-      "id": "e0430b04-2dd9-490d-88d6-9a64bc52b53d",
-      "number": 7,
-      "direction": "across",
-      "text": "Infiamma lo stadio",
-      "startRow": 3,
-      "startCol": 3,
-      "length": 3
-    },
-    {
-      "id": "8fb3259d-bced-4328-af42-83aa0181c984",
-      "number": 8,
-      "direction": "across",
-      "text": "Ostinato furore",
-      "startRow": 4,
-      "startCol": 0,
-      "length": 11
-    },
-    {
-      "id": "91b3a3c4-3ced-4586-a0c1-319d282a2adf",
-      "number": 8,
-      "direction": "down",
-      "text": "Azione Cattolica dei Ragazzi (sigla)",
-      "startRow": 4,
-      "startCol": 0,
-      "length": 3
-    },
-    {
-      "id": "86cfd6e9-c9fd-4900-bce6-d4e3d1e46382",
-      "number": 9,
-      "direction": "down",
-      "text": "Verso di cornacchia",
-      "startRow": 4,
       "startCol": 1,
       "length": 3
     },
     {
-      "id": "1f794689-f41a-491d-b3b1-d0c506fb1d04",
-      "number": 10,
+      "id": "9f1d2ebb-f45a-4089-81f9-77e80ac8c683",
+      "number": 1,
       "direction": "down",
-      "text": "Il\"Campeador\" , eroe della \"reconquista\"",
-      "startRow": 4,
+      "text": "Capo, promontorio della Terra Vittoria",
+      "startRow": 0,
+      "startCol": 1,
+      "length": 5
+    },
+    {
+      "id": "9b365745-7368-46e5-8c61-8440fb5fe3a4",
+      "number": 2,
+      "direction": "down",
+      "text": "Una storica cittadina del Belgio",
+      "startRow": 0,
       "startCol": 2,
-      "length": 3
-    },
-    {
-      "id": "0c222f02-e7ce-4a6b-8eef-80a0945aa8e7",
-      "number": 11,
-      "direction": "down",
-      "text": "L'attività che comprende il camminare",
-      "startRow": 4,
-      "startCol": 6,
-      "length": 7
-    },
-    {
-      "id": "c8dda9c8-21f5-4a65-80ee-25fa9aaa23c0",
-      "number": 12,
-      "direction": "down",
-      "text": "Boris che non faceva ridere",
-      "startRow": 4,
-      "startCol": 7,
       "length": 6
     },
     {
-      "id": "1cbc2dd5-578f-456b-9d2b-226f62ce7b49",
-      "number": 13,
+      "id": "b71eec8e-ce54-4b8e-9b5f-07b4116a845c",
+      "number": 3,
       "direction": "down",
-      "text": "Io assieme ad altri",
-      "startRow": 4,
-      "startCol": 8,
-      "length": 3
+      "text": "Lo attese a lungo Penelope",
+      "startRow": 0,
+      "startCol": 3,
+      "length": 6
     },
     {
-      "id": "aa455b85-12cd-44af-a0bd-a11a25bb2d01",
-      "number": 14,
-      "direction": "down",
-      "text": "Velocissimo treno francese",
-      "startRow": 4,
-      "startCol": 9,
-      "length": 3
-    },
-    {
-      "id": "1b32667c-7a9e-4a34-a2c3-143cb22e10ea",
-      "number": 15,
-      "direction": "down",
-      "text": "Triplo zero",
-      "startRow": 4,
-      "startCol": 10,
-      "length": 3
-    },
-    {
-      "id": "9ee1ce42-5005-42f5-82e1-bdc8d9fba5e1",
-      "number": 16,
+      "id": "40889c13-cb28-41f5-99d8-343a91253fc6",
+      "number": 4,
       "direction": "across",
-      "text": "Studia gli autori dei delitti",
-      "startRow": 5,
+      "text": "Redon pittore",
+      "startRow": 1,
       "startCol": 0,
-      "length": 11
+      "length": 6
     },
     {
-      "id": "3e497527-29cd-4962-9e3e-f46b3aafa06c",
-      "number": 17,
-      "direction": "across",
-      "text": "Un elemento come l'uranio",
-      "startRow": 6,
+      "id": "75d84756-101a-4b1c-88da-681366e214f3",
+      "number": 4,
+      "direction": "down",
+      "text": "Associa gran parte degli Stati produttori di petrolio (sigla)",
+      "startRow": 1,
       "startCol": 0,
-      "length": 11
-    },
-    {
-      "id": "c80f2087-37d3-4014-81bd-17dcf4e7e6be",
-      "number": 18,
-      "direction": "across",
-      "text": "Terapia Ormonale Sostitutiva",
-      "startRow": 7,
-      "startCol": 5,
-      "length": 3
-    },
-    {
-      "id": "f107d1c2-fb4b-4b44-b0fb-9c263644b7e7",
-      "number": 19,
-      "direction": "across",
-      "text": "L'Ordine della Rana",
-      "startRow": 8,
-      "startCol": 3,
-      "length": 5
-    },
-    {
-      "id": "a4185c66-8f7d-4be0-9c27-b0be296fa2c3",
-      "number": 19,
-      "direction": "down",
-      "text": "A metà cavalcata",
-      "startRow": 8,
-      "startCol": 3,
-      "length": 3
-    },
-    {
-      "id": "54f48307-5fca-4b97-ba72-89fb5170b667",
-      "number": 20,
-      "direction": "down",
-      "text": "Pronome per più persone",
-      "startRow": 8,
-      "startCol": 4,
-      "length": 3
-    },
-    {
-      "id": "59781517-455c-4eb2-9824-1e114c4c190e",
-      "number": 21,
-      "direction": "across",
-      "text": "Il nome di Maazel",
-      "startRow": 9,
-      "startCol": 3,
-      "length": 5
-    },
-    {
-      "id": "33650698-8577-4d8f-a1cf-1ec9ac7a0aa3",
-      "number": 22,
-      "direction": "across",
-      "text": "Centro Internazionale di Aviazione Agricola",
-      "startRow": 10,
-      "startCol": 3,
       "length": 4
+    },
+    {
+      "id": "bcb14018-f940-4d6b-affc-e04f2798b796",
+      "number": 5,
+      "direction": "down",
+      "text": "Opera Nazionale Mutilati e Invalidi Civili (sigla)",
+      "startRow": 1,
+      "startCol": 4,
+      "length": 5
+    },
+    {
+      "id": "30209444-8a51-474c-9d7d-88d9a05841b9",
+      "number": 6,
+      "direction": "down",
+      "text": "L'astronave del Viaggio nel cosmo di Piero Angela",
+      "startRow": 1,
+      "startCol": 5,
+      "length": 4
+    },
+    {
+      "id": "272f4a36-16ae-42e0-b023-cee7f61a8947",
+      "number": 7,
+      "direction": "across",
+      "text": "Si mangia imbottito a merenda",
+      "startRow": 2,
+      "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "289f7bb6-f948-46a4-b2d1-5f1e10a356c9",
+      "number": 8,
+      "direction": "across",
+      "text": "L'umanista... da Rotterdam",
+      "startRow": 3,
+      "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "d3838c78-14ab-41f9-91e8-c1faa0f29e12",
+      "number": 9,
+      "direction": "across",
+      "text": "Fa ricerche socio-economiche (sigla)",
+      "startRow": 4,
+      "startCol": 0,
+      "length": 6
+    },
+    {
+      "id": "6a5a8c20-043d-4277-97ac-8963e35c975a",
+      "number": 10,
+      "direction": "across",
+      "text": "Tariffa Esterna Comunale",
+      "startRow": 5,
+      "startCol": 2,
+      "length": 3
     }
   ]
 }

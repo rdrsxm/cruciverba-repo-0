@@ -1,17 +1,52 @@
 [
     {   
-        "id": "87ef68ab-5dfb-4379-93ad-cab6abffd802",
+        "id": "47b575f1-5d2f-420b-ab3e-dd096f640c03",
         "title": "Cruciverba 1",
         "url": "puzzles/puzzle_1.json"
     },
     {   
-        "id": "5e30a25f-45df-442f-a158-e649be0a7ba2",
+        "id": "4a6727f0-f289-4000-b638-e4ef0ac47828",
         "title": "Cruciverba 2",
         "url": "puzzles/puzzle_2.json"
     },
     {   
-        "id": "01213e4f-fdfc-4abc-9f01-ca601f01c948",
+        "id": "508e8ab0-212d-41c1-aa57-aab7ddc1b775",
         "title": "Cruciverba 3",
         "url": "puzzles/puzzle_3.json"
+    },
+    {   
+        "id": "6a83a022-92f3-4b23-95fa-d9502e9ec559",
+        "title": "Cruciverba 4",
+        "url": "puzzles/puzzle_4.json"
+    },
+    {   
+        "id": "1b2fbe2f-8409-4457-993a-cad30435f6bc",
+        "title": "Cruciverba 5",
+        "url": "puzzles/puzzle_5.json"
+    },
+    {   
+        "id": "77ffd4f2-c57f-4768-9b64-e4d06787bc2d",
+        "title": "Cruciverba 6",
+        "url": "puzzles/puzzle_6.json"
+    },
+    {   
+        "id": "4e51290c-35aa-47b7-b66e-769e7ac338bf",
+        "title": "Cruciverba 7",
+        "url": "puzzles/puzzle_7.json"
+    },
+    {   
+        "id": "9bf52d2d-4a29-4f20-b1af-ce27c02fe4aa",
+        "title": "Cruciverba 8",
+        "url": "puzzles/puzzle_8.json"
+    },
+    {   
+        "id": "74f003c9-3cc7-4953-92c7-7c9e7e264b37",
+        "title": "Cruciverba 9",
+        "url": "puzzles/puzzle_9.json"
+    },
+    {   
+        "id": "45846755-da2b-4fa8-9ecd-9acc1059d1bf",
+        "title": "Cruciverba 10",
+        "url": "puzzles/puzzle_10.json"
     }
 ]
